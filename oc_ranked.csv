@@ -1,358 +1,360 @@
-coordinator,seasons,teams,z_composite,earliest_season,earliest_team,latest_season,latest_team,off_ppa,off_success_rate,off_explosiveness,became_hc,first_hc_season,first_hc_team,latest_hc_season,latest_hc_team,headshot_url
-Steve Sarkisian,2,1,2.015032,2019,Alabama,2020,Alabama,0.458335,0.557747,1.329264,TRUE,2010,Washington,2025,Texas,https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Ftexassports_com%2Fimages%2F2024%2F8%2F5%2FSarkisian_Steve-2024_new_crop.jpg&width=180&height=270&type=webp
-Will Stein,2,1,1.793923,2023,Oregon,2025,Oregon,0.459471,0.53746,1.306134,FALSE,,,,,https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fuoregon.sidearmsports.com%2Fimages%2F2023%2F12%2F2%2FStein__Will.jpg&width=180&height=270&type=webp
-Kevin Wilson,4,1,1.661429,2019,Ohio State,2022,Ohio State,0.409744,0.528178,1.325227,TRUE,2011,Indiana,2024,Tulsa,https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Ftulsahurricane.com%2Fimages%2F2024%2F11%2F13%2FWilson_Kevin_24_-7.png&width=180&height=270&type=webp
-Gus Malzahn,1,1,1.458012,2025,Florida State,2025,Florida State,0.364262,0.487324,1.452897,TRUE,2012,Arkansas State,2024,UCF,https://ucfknights.com/imgproxy/FsOe_wMbs69g2MFge5njJo7JoEgYrCT_0gxotWbmDTY/rs:fit:1980:0:0/g:ce/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3VjZmtuaWdodHMtY29tLXByb2QvMjAyNC8wOC8zMS9rQ2dxSUdVN0FyR0F5SUlLQVlQSDVtRndZOEdzUmZCeVVjc0huRXVlLmpwZw.jpg
-Drew Cronic,2,1,1.316337,2024,Navy,2025,Navy,0.383772,0.485418,1.361099,FALSE,,,,,https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/navysports.com/images/2024/2/15/Cronic_Drew0224.jpg?width=300
-Darin Hinshaw,1,1,1.263548,2023,UCF,2023,UCF,0.30122,0.449219,1.457442,FALSE,,,,,https://ucfknights.com/imgproxy/uDfgmE0rUcdG3cRuwItrzK2ImZB5g7ZlxQxAMog83gI/rs:fit:1980:0:0/g:ce/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3VjZmtuaWdodHMtY29tLXByb2QvMjAyMy8wNi8wNi9CWjEyckV3SmZpQ1lodlpjaTA5NGZjcG5VQnBlcDRaQ0ZENnR6aDFhLmpwZw.jpg
-Josh Heupel,1,1,1.220396,2019,UCF,2019,UCF,0.292844,0.449541,1.412665,TRUE,2018,UCF,2025,Tennessee,https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Futsports.com%2Fimages%2F2021%2F1%2F27%2F316210_20210127_FB_JoshHeupel_Portrait_AF_001.jpg&width=180&height=270&type=webp
-Dwayne Ledford,2,1,1.18494,2019,Louisville,2020,Louisville,0.276435,0.431525,1.494348,FALSE,,,,,https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fgocards.com%2Fimages%2F2019%2F9%2F25%2Fdwayne_ledford.jpg&width=180&height=270&type=webp
-Scott Satterfield,1,1,1.099551,2021,Louisville,2021,Louisville,0.318596,0.440523,1.456291,TRUE,2014,Appalachian State,2025,Cincinnati,https://gobearcats.com/imgproxy/_IETHjvn3y8tiI46sGl9DLXRKeNLrXbvTYwYo428Y2w/rs:fit:1980:0:0/g:ce/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2dvYmVhcmNhdHMtY29tLXByb2QvMjAyNS8wNi8yMy9xUTJVNTllZXNsU0daM3VIU0hvSFc1eTVFSU5teWY3Y3FBeVRGNkt3LmpwZw.jpg
-Dirk Koetter,1,1,1.04094,2024,Boise State,2024,Boise State,0.333668,0.474886,1.309173,FALSE,,,,,https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fbroncosports.com%2Fimages%2F2024%2F2%2F28%2FKoetterDirk_Crop.jpg&width=180&height=270&type=webp
-Jimmie Dougherty,1,1,1.037145,2025,Washington,2025,Washington,0.367295,0.527536,1.239976,FALSE,,,,,https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fwashington.sidearmsports.com%2Fimages%2F2024%2F1%2F16%2FDougherty.png&width=180&height=270&type=webp
-Josh Henson,4,2,1.018501,2022,USC,2025,Purdue,0.300037,0.485676,1.332179,FALSE,,,,,https://purduesports.com/imgproxy/aXYxaAffAJpoSp1wFM_X_H4BRH11xjJx7h8jX7aseOI/rs:fit:1980:0:0/g:ce/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3B1cmR1ZXNwb3J0cy1jb20tcHJvZC8yMDI1LzA1LzE1L1N1c1JUUHU5bGRaUFZpU2dKNmJZeWgwcTJsV3haRmFNclRySTlDNVQuanBn.jpg
-Chip Kelly,3,2,1.018334,2022,UCLA,2024,Ohio State,0.310239,0.488585,1.298352,TRUE,2010,Oregon,2023,UCLA,https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fuclabruins.com%2Fimages%2F2022%2F8%2F8%2FKelly_Chip_Cropped.jpg&width=180&height=270&type=webp
-Steve Ensminger,2,1,0.982206,2019,LSU,2020,LSU,0.316578,0.508205,1.231939,FALSE,,,,,https://s3media.247sports.com/Uploads/Assets/941/949/7949941.jpg
-Junior Adams,2,1,0.97532,2022,Oregon,2024,Oregon,0.347019,0.527206,1.182527,FALSE,,,,,https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fuoregon.sidearmsports.com%2Fimages%2F2023%2F5%2F5%2FAdams__Junior.jpg&width=180&height=270&type=webp
-Bill O'Brien,2,1,0.968394,2021,Alabama,2022,Alabama,0.30348,0.4691,1.358715,TRUE,2012,Penn State,2025,Boston College,https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fbceagles.com%2Fimages%2F2024%2F2%2F16%2FOB.jpg&width=180&height=270&type=webp
-A.J. Ricker,1,1,0.964765,2022,TCU,2022,TCU,0.287566,0.43573,1.421351,FALSE,,,,,https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fgofrogs.com%2Fimages%2F2024%2F6%2F26%2FRicker__A.J..jpg&width=180&height=270&type=webp
-Alex Golesh,3,2,0.939137,2020,UCF,2022,Tennessee,0.330823,0.492647,1.283598,TRUE,2023,South Florida,2025,South Florida,https://gousfbulls.com/images/2023/1/16/Alex_Golesh_-_H.23-MH3829.jpg?width=300
-Conor Riley,1,1,0.938415,2024,Kansas State,2024,Kansas State,0.300691,0.440461,1.380001,FALSE,,,,,https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fkstate.sidearmsports.com%2Fimages%2F2019%2F1%2F11%2FRiley_Conor_mug.jpg&width=180&height=270&type=webp
-Jordan Davis,3,1,0.934967,2023,North Texas,2025,North Texas,0.263516,0.445776,1.423945,FALSE,,,,,https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmeangreensports.com%2Fimages%2F2023%2F1%2F12%2FUNT_FB_Davis_Jordan_2023_NT107913_MEFmt.jpg&width=180&height=270&type=webp
-Jake Moreland,2,1,0.889916,2019,Western Michigan,2020,Western Michigan,0.314845,0.484943,1.284097,FALSE,,,,,https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/wmich.sidearmsports.com/images/2010/4/14/IMSFZUYZZYEWQCU.20100414211535.jpg?width=300
-Mike Denbrock,7,3,0.879179,2019,Cincinnati,2025,Notre Dame,0.310788,0.486482,1.284387,FALSE,,,,,https://fightingirish.com/imgproxy/-OYg5VWylVFBMWeT17wLl0lnpUPrlsTwsb6EaNKYsK4/fit/420/640/ce/0/aHR0cHM6Ly9maWdodGluZ2lyaXNoLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAyNC8wMi9EZW5icm9ja19NaWtlLXNjYWxlZC5qcGc.jpg
-Landon Keopple,1,1,0.874376,2025,Texas State,2025,Texas State,0.33797,0.48564,1.301253,FALSE,,,,,https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/txstate.sidearmsports.com/images/2025/8/27/MRR-0328.jpg?width=300
-Jim Svoboda,1,1,0.865609,2022,Tulane,2022,Tulane,0.297961,0.439675,1.374694,FALSE,,,,,https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Ftulanegreenwave.com%2Fimages%2F2022%2F8%2F19%2FJim_Svoboda.jpg&width=180&height=270&type=webp
-Billy Gonzales,2,1,0.865339,2019,Florida,2020,Florida,0.287947,0.480972,1.308162,FALSE,,,,,https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fgatorzone.com%2Fimages%2F2025%2F3%2F6%2FGonzales_Billy.png&width=180&height=270&type=webp
-Bobby Petrino,3,2,0.802247,2023,Texas A&M,2025,Arkansas,0.289808,0.482604,1.303804,TRUE,2010,Arkansas,2017,Louisville,https://arkansasrazorbacks.com/wp-content/uploads/2024/06/Bobby-Petrino-FB-2024-7042-e1718998002893.jpg
-Tony Elliott,3,1,0.763429,2019,Clemson,2021,Clemson,0.290364,0.480268,1.293513,TRUE,2022,Virginia,2025,Virginia,https://virginiasports.com/imgproxy/D_K2Ycxh__Ycr5Q8n_9QlPEXl_ofJVBObEU_nymYRaE/fit/600/800/ce/0/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3Zpcmdpbmlhc3BvcnRzLWNvbS8yMDIxLzEyL0hlYWQtQ29hY2gtVG9ueS1FbGxpb3R0XzIwMjQwODE5X0ZCX09NXzMxMi1zY2FsZWQtZTE3MjY1MjU4NzU1NzYuanBn.jpg
-Todd Monken,3,1,0.754769,2020,Georgia,2022,Georgia,0.303707,0.488339,1.257496,TRUE,2013,Southern Mississippi,2015,Southern Mississippi,https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fgeorgiadogs.com%2Fimages%2F2020%2F1%2F24%2FMonken_Todd_2.jpg&width=180&height=270&type=webp
-Kurt Roper,1,1,0.74391,2025,NC State,2025,NC State,0.288789,0.446556,1.385463,TRUE,2018,Colorado,2018,Colorado,https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fgopack.com%2Fimages%2F2023%2F4%2F27%2FRoperHS2021.jpg&width=180&height=270&type=webp
-Zak Hill,3,2,0.738162,2019,Boise State,2021,Arizona State,0.281048,0.472675,1.305259,FALSE,,,,,https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fbroncosports.com%2Fimages%2F2025%2F1%2F17%2FHill_Zak.JPG&width=180&height=270&type=webp
-Rob Ezell,2,2,0.717922,2024,South Alabama,2025,Wake Forest,0.27112,0.437105,1.379335,FALSE,,,,,https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fwakeforestsports.com%2Fimages%2F2025%2F4%2F22%2FRob_Ezell_Headshot.jpg&width=180&height=270&type=webp
-Sherrone Moore,2,1,0.711793,2022,Michigan,2023,Michigan,0.288991,0.490366,1.235435,TRUE,2024,Michigan,2025,Michigan,https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2024%2F2%2F5%2FMoore__Sherrone.jpg&width=180&height=270&type=webp
-Mack Leftwich,3,2,0.694735,2023,Texas State,2025,Texas Tech,0.296809,0.47884,1.271759,FALSE,,,,,https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Ftexastech.com%2Fimages%2F2025%2F1%2F17%2FMack_Leftwich__200x275__q5leH.jpg&width=180&height=270&type=webp
-Brian Hartline,1,1,0.693534,2023,Ohio State,2023,Ohio State,0.306398,0.466759,1.258874,FALSE,,,,,https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fohiostatebuckeyes.com%2Fimages%2F2018%2F06%2FHartline_Brian-e1579614368984-1024x828.jpg&width=180&height=270&type=webp
-Robert Weiner,1,1,0.688279,2020,Toledo,2020,Toledo,0.259224,0.456019,1.361108,FALSE,,,,,https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/utrockets.com/images/2021/4/12/Weiner_Robert_Toledo_2021_head_shot_Print.jpg?width=300
-Tim Albin,2,1,0.68282,2019,Ohio,2020,Ohio,0.261172,0.46601,1.305351,TRUE,2021,Ohio,2025,Charlotte,https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Funcc.sidearmsports.com%2Fimages%2F2024%2F12%2F10%2FAlbin_Announcement_Headshot.jpg&width=180&height=270&type=webp
-Ryan Grubb,6,3,0.681997,2019,Fresno State,2025,Alabama,0.28187,0.479096,1.272416,FALSE,,,,,https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Frolltide.com%2Fimages%2F2025%2F2%2F13%2FGrubb__Ryan.jpg&width=180&height=270&type=webp
-Casey Woods,2,1,0.667083,2022,SMU,2023,SMU,0.257397,0.444031,1.348249,FALSE,,,,,https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/smumustangs.com/images/2025/7/29/Casey_Woods.jpg?width=300
-Corey Dennis,1,1,0.667049,2025,UNLV,2025,UNLV,0.32289,0.486631,1.249584,FALSE,,,,,https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/unlvrebels.com/images/2025/2/13/Corey_Dennis_HS.jpg?width=300
-Nick Petrino,1,1,0.660516,2025,Missouri State,2025,Missouri State,0.182423,0.38253,1.587726,FALSE,,,,,https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/missouristatebears.com/images/2020/8/6/Nick_Petrino_1755.jpg?width=300
-Shannon Dawson,6,2,0.649828,2020,Houston,2025,Miami,0.274627,0.466141,1.291734,FALSE,,,,,https://miamihurricanes.com/imgproxy/HyN8_2zXFFJhr4pA5lJC__lD-m01n1379mo5tPzH5fs/fit/600/800/ce/0/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1cnJpY2FuZXNwb3J0cy1jb20vMjAyMy8wNy9mNTgxOGNmZS1kYXdzb25fc2hhbm5vbi1zY2FsZWQuanBn.jpg
-Jeff Lebby,6,3,0.646381,2020,Ole Miss,2025,Mississippi State,0.260153,0.46168,1.324828,TRUE,2024,Mississippi State,2025,Mississippi State,https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmsstate.sidearmsports.com%2Fimages%2F2023%2F12%2F18%2FLebby_Jeff_WEB_20231128_FB_HeadShots_MM_0009.jpg&width=180&height=270&type=webp
-Dan Mullen,1,1,0.591052,2021,Florida,2021,Florida,0.269705,0.468111,1.306758,TRUE,2010,Mississippi State,2025,UNLV,https://unlvrebels.com/images/2024/12/30/D76052_001_Dan_Mullen.JPG?width=300
-Nathan Scheelhaase,1,1,0.577316,2023,Iowa State,2023,Iowa State,0.18811,0.363004,1.557487,FALSE,,,,,https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fisuni.sidearmsports.com%2Fimages%2F2023%2F7%2F20%2FScheelhaase__Nate23_HS_mV3Ud.jpg&width=180&height=270&type=webp
-Andy Kotelnicki,7,3,0.575222,2019,Buffalo,2025,Penn State,0.28024,0.462027,1.279822,FALSE,,,,,https://gopsusports.com/imgproxy/tsH2gdB8FuBM-I4UTwxqbe5LAcEk82Ba0IulJq6Zg5s/rs:fit:1980:0:0/g:ce/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2dvcHN1c3BvcnRzLXByb2QvMjAyNC8wNy8wNC92Yno1VWRQdXg0ZU9hZHZRUHhNV21abkJnb1REVU5GMXRJb3JMUDVmLmpwZw.jpg
-Nick Sheridan,1,1,0.549929,2024,Alabama,2024,Alabama,0.234711,0.452017,1.32261,FALSE,,,,,https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Frolltide.com%2Fimages%2F2024%2F3%2F4%2FSheridan.jpg&width=180&height=270&type=webp
-Kendal Briles,7,3,0.544482,2019,Florida State,2025,TCU,0.255206,0.451386,1.309481,FALSE,,,,,https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fgofrogs.com%2Fimages%2F2024%2F6%2F27%2FBriles__Kendal.jpg&width=180&height=270&type=webp
-Kevin Decker,3,1,0.536939,2023,Old Dominion,2025,Old Dominion,0.23284,0.437966,1.37272,FALSE,,,,,https://odusports.com/imgproxy/J3F1a4xhFoYf1KKmxpnacITsXT3SUz4Up5lzeMxxnSc/rs:fit:1980:0:0/g:ce/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL29kdS1wcm9kLzIwMjUvMDYvMjQvR1dERUNFTTVIZnVrYU5zNkxpREFMSk1uU0RuZ3JEcE5sNW8xMzBwbi5qcGc.jpg
-Keenan Bailey,1,1,0.528457,2025,Ohio State,2025,Ohio State,0.323765,0.52443,1.130415,FALSE,,,,,https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fohiostatebuckeyes.com%2Fimages%2F2023%2F8%2F14%2FBailey_Keenan_040423-NILHeadshots-091.jpg&width=180&height=270&type=webp
-Newland Isaac,7,2,0.528136,2019,Coastal Carolina,2025,Liberty,0.280834,0.487639,1.210796,FALSE,,,,,https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Flibertyuni.sidearmsports.com%2Fimages%2F2023%2F6%2F20%2FIsaac-Newland-2023.jpg&width=180&height=270&type=webp
-Matt Mattox,1,1,0.526077,2022,UT San Antonio,2022,UT San Antonio,0.275201,0.488565,1.203144,FALSE,,,,,
-Joey Halzle,3,1,0.525769,2023,Tennessee,2025,Tennessee,0.300104,0.486592,1.213278,FALSE,,,,,https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Futsports.com%2Fimages%2F2021%2F3%2F16%2F321592_20210310_FB_Headshot_AF_011.jpg&width=180&height=270&type=webp
-Kevin Johns,5,2,0.525624,2019,Memphis,2023,Duke,0.241434,0.439597,1.336723,FALSE,,,,,
-Andrew Sowder,4,1,0.509774,2019,Kent State,2022,Kent State,0.294002,0.494411,1.193947,FALSE,,,,,
-Rhett Lashlee,3,2,0.494452,2019,SMU,2021,Miami,0.238967,0.429021,1.357502,TRUE,2022,SMU,2025,SMU,
-Cooper Bassett,1,1,0.494429,2024,Utah State,2024,Utah State,0.244629,0.456311,1.291796,FALSE,,,,,
-Ben Arbuckle,4,3,0.485583,2022,Western Kentucky,2025,Oklahoma,0.230109,0.458006,1.300369,FALSE,,,,,https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fsoonersports.com%2Fimages%2F2024%2F12%2F19%2FArbuckle__Ben.jpg&width=180&height=270&type=webp
-Kent Austin,4,1,0.484812,2019,Liberty,2022,Liberty,0.249003,0.46089,1.286254,FALSE,,,,,
-Tim Beck,7,4,0.483762,2019,Texas,2025,Vanderbilt,0.260383,0.456368,1.289243,TRUE,2023,Coastal Carolina,2025,Coastal Carolina,https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fgopack.com%2Fimages%2F2020%2F1%2F8%2FBeck_Tim.JPG&width=180&height=270&type=webp
-Mike Shanahan,4,2,0.481515,2022,James Madison,2025,Indiana,0.261824,0.491122,1.206695,FALSE,,,,,https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fiuhoosiers.com%2Fimages%2F2023%2F12%2F11%2FShanahan_Mike_Q3iX8.jpg&width=180&height=270&type=webp
-Kyle Cefalo,1,1,0.472826,2023,Utah State,2023,Utah State,0.227625,0.422518,1.366311,FALSE,,,,,
-Justin Frye,3,1,0.471059,2019,UCLA,2021,UCLA,0.257298,0.464756,1.263561,FALSE,,,,,
-Ricky Rahne,1,1,0.465106,2019,Penn State,2019,Penn State,0.227513,0.440506,1.293779,TRUE,2021,Old Dominion,2025,Old Dominion,
-Brennan Marion,2,1,0.457245,2023,UNLV,2024,UNLV,0.231945,0.421024,1.363158,FALSE,,,,,
-Aaron Roderick,5,1,0.451325,2021,BYU,2025,BYU,0.248781,0.450307,1.303626,FALSE,,,,,https://byucougars.com/imgproxy/Q_NoxZM54LGCAlcD6Uu9aix5I2RxWdmbrApKkl8E3pY/rs:fit:1980:0:0/g:ce/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2J5dWNvdWdhcnMtcHJvZC8yMDIzLzA3LzI3L1RrZUE3TGVyUmptMFZTVFNYOFhmT3dRUGZ3MFdUbmd0SXh4TjA5MksuanBn.jpg
-Chad Scott,2,1,0.450374,2023,West Virginia,2024,West Virginia,0.220466,0.43525,1.34106,FALSE,,,,,
-Rob Sale,5,2,0.447374,2019,Louisiana,2024,Florida,0.247972,0.450962,1.285909,FALSE,,,,,
-Kade Bell,2,1,0.440901,2024,Pittsburgh,2025,Pittsburgh,0.227919,0.429613,1.373873,FALSE,,,,,https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fpittsburghpanthers.com%2Fimages%2F2024%2F2%2F26%2FBell__Kade__24_.jpg&width=180&height=270&type=webp
-Frank Ponce,3,1,0.437231,2021,Appalachian State,2024,Appalachian State,0.234466,0.447273,1.313408,FALSE,,,,,
-Matt Miller,1,1,0.43685,2025,Boise State,2025,Boise State,0.247777,0.436364,1.3498,FALSE,,,,,https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fbroncosports.com%2Fimages%2F2020%2F3%2F23%2FMiller_Matt_lSkis.jpg&width=180&height=270&type=webp
-John David Baker,3,2,0.434128,2023,Ole Miss,2025,East Carolina,0.234059,0.443895,1.311993,FALSE,,,,,https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fecupirates.com%2Fimages%2F2024%2F2%2F29%2FBaker_John_David_MUG_2024-1_jgbin.jpg&width=180&height=270&type=webp
-Pat Shurmur,2,1,0.432672,2024,Colorado,2025,Colorado,0.23424,0.418939,1.373867,FALSE,,,,,https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fcubuffs.com%2Fimages%2F2025%2F8%2F11%2Ffor_web_Pat_Shurmur.jpg&width=180&height=270&type=webp
-Justin Burke,3,1,0.419756,2023,UT San Antonio,2025,UT San Antonio,0.227593,0.415269,1.384186,FALSE,,,,,https://goutsa.com/imgproxy/FVinTgIynz9DfiwfSKnKKg7KUN9uBebYM2WMs1bB-0Q/rs:fit:1980:0:0/g:ce/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2dvdXRzYS1wcm9kLzIwMjMvMDgvMjQvZ2l3UVk0MlpRTTN3OGJrUWR6N3NpRVgxeHJxQ3hoR256NGxGMUFUWi5qcGc.jpg
-Phil Longo,6,2,0.417903,2019,North Carolina,2024,Wisconsin,0.252707,0.458255,1.277043,TRUE,2025,Sam Houston State,2025,Sam Houston State,
-Zach Kittley,4,2,0.416956,2021,Western Kentucky,2024,Texas Tech,0.24252,0.452667,1.285993,TRUE,2025,Florida Atlantic,2025,Florida Atlantic,
-Gordon Sammis,2,1,0.397338,2024,Connecticut,2025,Connecticut,0.270556,0.434312,1.323189,FALSE,,,,,https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fuconnhuskies.com%2Fimages%2F2022%2F3%2F3%2FGA8A1317.jpg&width=180&height=270&type=webp
-Alex Atkins,4,2,0.38441,2019,Charlotte,2024,Florida State,0.213901,0.428419,1.343527,FALSE,,,,,
-Dave Johnson,1,1,0.369573,2019,Colorado State,2019,Colorado State,0.200403,0.446061,1.282961,FALSE,,,,,
-Kyle Flood,5,1,0.359133,2021,Texas,2025,Texas,0.240397,0.450141,1.277239,TRUE,2012,Rutgers,2015,Rutgers,
-Chip Lindsey,3,2,0.358225,2022,UCF,2024,North Carolina,0.238167,0.455456,1.259749,TRUE,2019,Troy,2020,Troy,
-Travis Trickett,3,2,0.34905,2022,South Florida,2024,Coastal Carolina,0.215408,0.421077,1.349644,FALSE,,,,,
-Jeff Grimes,7,4,0.34847,2019,BYU,2025,Wisconsin,0.235434,0.454373,1.274899,FALSE,,,,,https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/uwbadgers.com/images/2025/1/29/250114FB-1171-Grimes.png?width=300
-Garrett Riley,5,2,0.338994,2020,SMU,2025,Clemson,0.246546,0.46055,1.255652,FALSE,,,,,https://clemsontigers.com/wp-content/uploads/2023/07/RileyGarrett.jpg
-Kirby Moore,4,2,0.337939,2022,Fresno State,2025,Missouri,0.263196,0.474638,1.208972,FALSE,,,,,https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmutigers.com%2Fimages%2F2025%2F3%2F9%2FWeb_Mooe__Kirby.jpg&width=180&height=270&type=webp
-Buster Faulkner,4,2,0.335624,2019,Southern Mississippi,2025,Georgia Tech,0.232707,0.452673,1.264619,FALSE,,,,,https://ramblinwreck.com/imgproxy/qfvAAINuVQaC1DOO_SIK_iVliv6dyicxqAf9NM5co74/fit/2500/2500/ce/0/aHR0cHM6Ly9yYW1ibGlud3JlY2suY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDIzLzAxL0Z1bGtuZXJfQnVzdGVyLW11Zy0yMDIzLXNjYWxlZC1lMTY3Mzk3OTg3OTEzOS03NDJ4MTAyNC5qcGc.jpg
-Liam Coen,2,1,0.329935,2021,Kentucky,2023,Kentucky,0.223361,0.451011,1.293825,FALSE,,,,,
-Dino Babers,1,1,0.322787,2024,Arizona,2024,Arizona,0.148019,0.385084,1.473995,TRUE,2014,Bowling Green,2022,Syracuse,
-Mike Bloesch,4,2,0.314206,2020,North Texas,2024,California,0.221422,0.424097,1.350219,FALSE,,,,,
-Brian Smith,4,3,0.312603,2019,Hawai'i,2024,Ohio,0.227146,0.461442,1.250613,TRUE,2025,Ohio,2025,Ohio,
-Steve Cooper,1,1,0.299754,2025,UCF,2025,UCF,0.20575,0.402036,1.415737,FALSE,,,,,
-Tommy Rees,4,2,0.297732,2020,Notre Dame,2023,Alabama,0.236454,0.456553,1.255139,FALSE,,,,,https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Frolltide.com%2Fimages%2F2023%2F2%2F9%2FRees_Tommy_2022.jpg&width=180&height=270&type=webp
-Ryan Pugh,2,1,0.294803,2019,Troy,2020,Troy,0.218205,0.46284,1.232763,FALSE,,,,,
-Kodi Burns,1,1,0.288358,2025,South Florida,2025,South Florida,0.265191,0.449036,1.262384,FALSE,,,,,https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/usf.sidearmsports.com/images/2025/2/27/Kodi_Burns.jpg?width=300
-Brad Glenn,6,2,0.287866,2019,Georgia State,2025,Cincinnati,0.240685,0.460936,1.240863,FALSE,,,,,
-Eliah Drinkwitz,3,2,0.281589,2019,Appalachian State,2021,Missouri,0.228401,0.438201,1.282642,FALSE,,,,,https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmutigers.com%2Fimages%2F2025%2F3%2F9%2FWeb_Drinkwitz_Eliah.jpg&width=180&height=270&type=webp
-Tim Cramsey,7,2,0.270611,2019,Marshall,2025,Memphis,0.230015,0.451611,1.2595,FALSE,,,,,
-Charlie Weis Jr.,6,3,0.268432,2019,Florida Atlantic,2025,Ole Miss,0.221547,0.450124,1.260952,FALSE,,,,,https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Folemisssports.com%2Fimages%2F2023%2F7%2F26%2FWeisJr_Charlie_2023.JPG&width=180&height=270&type=webp
-Alex Mortensen,3,1,0.260352,2023,UAB,2025,UAB,0.242337,0.456224,1.246488,FALSE,,,,,https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fuabsports.com%2Fimages%2F2023%2F1%2F29%2FKFS_0291.jpg&width=180&height=270&type=webp
-Rob Likens,3,2,0.252663,2019,Arizona State,2025,SMU,0.213344,0.434866,1.301442,FALSE,,,,,
-Collin Klein,4,2,0.250282,2022,Kansas State,2025,Texas A&M,0.246993,0.45433,1.235287,FALSE,,,,,https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Ftamu.sidearmsports.com%2Fimages%2F2024%2F2%2F12%2FKlein_-Collin.jpg&width=180&height=270&type=webp
-Major Applewhite,3,1,0.248693,2021,South Alabama,2023,South Alabama,0.216468,0.420912,1.33156,TRUE,2016,Houston,2025,South Alabama,
-Aaron Keen,1,1,0.248331,2019,Eastern Michigan,2019,Eastern Michigan,0.229714,0.471698,1.178176,FALSE,,,,,
-Gerad Parker,3,2,0.248192,2020,West Virginia,2023,Notre Dame,0.219504,0.442292,1.279383,TRUE,2016,Purdue,2025,Troy,
-Bryant Vincent,7,3,0.244921,2019,UAB,2025,Louisiana Monroe,0.208161,0.420685,1.332634,TRUE,2022,UAB,2025,Louisiana Monroe,
-Tim Harris Jr.,2,1,0.24136,2021,UCF,2024,UCF,0.215451,0.44576,1.291619,FALSE,,,,,
-Matt Lubick,4,3,0.231949,2020,Nebraska,2025,Kansas,0.252726,0.465418,1.214539,FALSE,,,,,
-Brennan Carroll,4,2,0.217492,2021,Arizona,2024,Washington,0.219622,0.46083,1.241093,FALSE,,,,,
-Marcus Arroyo,3,2,0.214663,2019,Oregon,2025,Arizona State,0.244301,0.456806,1.209936,TRUE,2020,UNLV,2022,UNLV,
-Josh Davis,1,1,0.214241,2025,Fresno State,2025,Fresno State,0.195573,0.46,1.282895,FALSE,,,,,
-Jason Beck,3,3,0.214132,2023,Syracuse,2025,Utah,0.261783,0.469914,1.181572,FALSE,,,,,
-Tyler Walker,1,1,0.209398,2025,Temple,2025,Temple,0.256666,0.435065,1.274044,FALSE,,,,,
-Kevin McGiven,6,2,0.204548,2019,San Jose State,2025,Utah State,0.202083,0.435993,1.300983,FALSE,,,,,
-Mike Bobo,5,3,0.194253,2020,South Carolina,2025,Georgia,0.236806,0.462411,1.213154,TRUE,2015,Colorado State,2020,South Carolina,
-Taylor Mouser,2,1,0.190427,2024,Iowa State,2025,Iowa State,0.2115,0.426616,1.31066,FALSE,,,,,
-Andrew Breiner,2,2,0.180848,2019,Mississippi State,2021,Florida International,0.189079,0.411933,1.352866,FALSE,,,,,
-Kalen DeBoer,1,1,0.176628,2019,Indiana,2019,Indiana,0.22877,0.469059,1.165549,TRUE,2020,Fresno State,2025,Alabama,
-Mike Yurcich,4,2,0.173039,2020,Texas,2023,Penn State,0.219333,0.433422,1.286443,FALSE,,,,,
-Will Hall,2,1,0.167963,2019,Tulane,2020,Tulane,0.196759,0.448961,1.245058,TRUE,2021,Southern Mississippi,2024,Southern Mississippi,
-Brian Lindgren,7,2,0.166953,2019,Oregon State,2025,Michigan State,0.233722,0.45979,1.206941,FALSE,,,,,
-Les Koenning,1,1,0.163505,2019,Kansas,2019,Kansas,0.179578,0.421212,1.294872,FALSE,,,,,
-Jonathan Brewer,2,1,0.153473,2024,Duke,2025,Duke,0.220613,0.430469,1.314601,FALSE,,,,,
-Michael Desormeaux,1,1,0.14855,2021,Louisiana,2021,Louisiana,0.230414,0.453947,1.250756,TRUE,2021,Louisiana,2025,Louisiana,
-Mike Hallett,5,1,0.148326,2021,Toledo,2025,Toledo,0.202419,0.424582,1.31361,FALSE,,,,,
-Mike Thiessen,7,1,0.146056,2019,Air Force,2025,Air Force,0.283496,0.488079,1.115778,FALSE,,,,,
-Will Friend,1,1,0.131048,2024,Western Kentucky,2024,Western Kentucky,0.193342,0.417767,1.323282,FALSE,,,,,
-Robert Anae,6,3,0.128058,2019,Virginia,2024,NC State,0.204707,0.447953,1.245609,FALSE,,,,,
-Mike Johnson,3,2,0.119342,2021,Florida Atlantic,2025,Syracuse,0.198824,0.440461,1.279794,FALSE,,,,,
-Barry Lunney Jr.,6,2,0.110867,2020,UT San Antonio,2025,Illinois,0.209899,0.443769,1.253536,TRUE,2019,Arkansas,2019,Arkansas,
-Bo Graham,1,1,0.107842,2021,Hawai'i,2021,Hawai'i,0.199379,0.422222,1.335411,FALSE,,,,,
-Dave Warner,2,1,0.106569,2021,UTEP,2022,UTEP,0.180223,0.399594,1.37809,FALSE,,,,,
-Craig Stutzmann,2,1,0.087051,2024,San Jose State,2025,San Jose State,0.193265,0.43985,1.27568,FALSE,,,,,
-GJ Kinne,1,1,0.085504,2020,Hawai'i,2020,Hawai'i,0.19976,0.406504,1.321666,FALSE,,,,,
-Marquel Blackwell,1,1,0.077327,2019,Houston,2019,Houston,0.162129,0.423927,1.283183,FALSE,,,,,
-Scottie Montgomery,2,1,0.075753,2019,Maryland,2020,Maryland,0.108337,0.377701,1.450821,TRUE,2016,East Carolina,2017,East Carolina,
-Nick Holz,1,1,0.073395,2022,UNLV,2022,UNLV,0.210165,0.413534,1.289408,FALSE,,,,,
-Jake Spavital,4,3,0.06645,2022,Texas State,2025,Baylor,0.199761,0.428496,1.281587,TRUE,2019,Texas State,2022,Texas State,
-Courtney Messingham,3,1,0.065572,2019,Kansas State,2021,Kansas State,0.205507,0.428724,1.265622,FALSE,,,,,
-Tom Manning,4,1,0.06553,2019,Iowa State,2022,Iowa State,0.210673,0.444401,1.233137,FALSE,,,,,
-Lance Taylor,1,1,0.065374,2022,Louisville,2022,Louisville,0.170566,0.412833,1.328464,TRUE,2023,Western Michigan,2025,Western Michigan,
-Eric Koehler,2,1,0.053014,2021,Miami (OH),2022,Miami (OH),0.188922,0.402472,1.346631,FALSE,,,,,
-Eric Kiesau,2,2,0.045366,2020,Boise State,2022,Auburn,0.197368,0.427693,1.269692,TRUE,2016,Fresno State,2016,Fresno State,
-Hue Jackson,1,1,0.040137,2025,Georgia State,2025,Georgia State,0.160185,0.385113,1.412424,FALSE,,,,,
-Brian Brohm,7,2,0.038882,2019,Purdue,2025,Louisville,0.199995,0.449545,1.221187,TRUE,2022,Purdue,2022,Purdue,
-Jeff Nixon,1,1,0.033029,2019,Baylor,2019,Baylor,0.191467,0.44213,1.211942,FALSE,,,,,
-Rick Bowie,1,1,0.030574,2025,Western Kentucky,2025,Western Kentucky,0.191977,0.446602,1.256553,FALSE,,,,,
-Steve Shimko,1,1,0.026592,2023,Boston College,2023,Boston College,0.201498,0.423628,1.266253,FALSE,,,,,
-Blake Anderson,1,1,0.024303,2025,Southern Mississippi,2025,Southern Mississippi,0.19136,0.413098,1.322283,TRUE,2014,Arkansas State,2024,Utah State,
-Dan Enos,4,3,0.020125,2019,Miami,2023,Arkansas,0.192152,0.426976,1.268057,TRUE,2010,Central Michigan,2014,Central Michigan,
-Matt Wells,1,1,0.012279,2025,Kansas State,2025,Kansas State,0.174992,0.408889,1.342358,TRUE,2013,Utah State,2020,Texas Tech,
-Josh Gattis,5,3,0.011837,2019,Michigan,2023,Maryland,0.199903,0.44524,1.22494,FALSE,,,,,
-Andy Ludwig,6,1,0.004831,2019,Utah,2024,Utah,0.194945,0.448934,1.220147,FALSE,,,,,
-Trent McKnight,2,1,0.004483,2022,Georgia State,2023,Georgia State,0.170649,0.409015,1.319218,FALSE,,,,,
-Cortez Hankton,2,1,-0.00412,2024,LSU,2025,LSU,0.197828,0.437865,1.238666,FALSE,,,,,
-Kenny Dillingham,3,2,-0.01078,2019,Auburn,2021,Florida State,0.19243,0.42043,1.280284,TRUE,2023,Arizona State,2025,Arizona State,
-Brian Wright,1,1,-0.01364,2019,Toledo,2019,Toledo,0.189834,0.425806,1.23183,TRUE,2013,Florida Atlantic,2013,Florida Atlantic,
-Mitch Militello,1,1,-0.01692,2025,Kennesaw State,2025,Kennesaw State,0.171662,0.413333,1.327593,FALSE,,,,,
-Scott Isphording,3,1,-0.03186,2022,Ohio,2025,Ohio,0.198563,0.440758,1.225544,FALSE,,,,,
-Seth Doege,2,2,-0.03233,2024,Marshall,2025,Arizona,0.181084,0.416129,1.299478,FALSE,,,,,
-Pat McCann,2,1,-0.03556,2023,Fresno State,2024,Fresno State,0.164808,0.414758,1.310618,FALSE,,,,,
-Terence Archer,1,1,-0.03646,2025,Delaware,2025,Delaware,0.203418,0.458438,1.201489,FALSE,,,,,
-Mark Carney,4,2,-0.04774,2020,Charlotte,2024,Kent State,0.133251,0.401287,1.369696,TRUE,2025,Kent State,2025,Kent State,
-Sean Reagan,2,1,-0.05141,2024,Troy,2025,Troy,0.192395,0.422968,1.270626,FALSE,,,,,
-Tommy Mainord,1,1,-0.05655,2019,North Texas,2019,North Texas,0.150181,0.423377,1.26048,FALSE,,,,,
-Greg Nosal,3,1,-0.0692,2022,Bowling Green,2024,Bowling Green,0.174532,0.409981,1.296591,FALSE,,,,,
-Keith Heckendorf,7,1,-0.0704,2019,Arkansas State,2025,Arkansas State,0.160979,0.400753,1.333314,FALSE,,,,,
-Sonny Cumbie,3,2,-0.07048,2019,TCU,2021,Texas Tech,0.190127,0.434903,1.232597,TRUE,2021,Texas Tech,2025,Louisiana Tech,
-Kirk Ciarrocca,6,3,-0.07614,2019,Minnesota,2025,Rutgers,0.202293,0.451703,1.185108,FALSE,,,,,
-Dowell Loggains,3,2,-0.07833,2023,South Carolina,2025,Appalachian State,0.178917,0.423937,1.262669,TRUE,2025,Appalachian State,2025,Appalachian State,
-Rod Smith,5,3,-0.08009,2019,Illinois,2025,Marshall,0.17599,0.416146,1.272929,TRUE,2020,Illinois,2020,Illinois,
-Tim Leger,4,1,-0.08168,2022,Louisiana,2025,Louisiana,0.183731,0.413529,1.272009,FALSE,,,,,
-Warren Ruggiero,6,1,-0.08761,2019,Wake Forest,2024,Wake Forest,0.187686,0.433936,1.236867,FALSE,,,,,
-Pep Hamilton,1,1,-0.09089,2025,Maryland,2025,Maryland,0.192039,0.421053,1.270258,FALSE,,,,,
-Joe Craddock,5,3,-0.09417,2019,Arkansas,2025,Tulane,0.169206,0.41592,1.274349,FALSE,,,,,
-Ivin Jasper,3,1,-0.09527,2019,Navy,2021,Navy,0.190097,0.400502,1.280393,FALSE,,,,,
-Joel Gordon,2,1,-0.10205,2023,South Florida,2024,South Florida,0.161927,0.388635,1.344724,FALSE,,,,,
-Gino Guidugli,1,1,-0.10626,2022,Cincinnati,2022,Cincinnati,0.183416,0.402424,1.287314,FALSE,,,,,
-Roman Sapolu,1,1,-0.12139,2023,Hawai'i,2023,Hawai'i,0.132372,0.409524,1.321424,FALSE,,,,,
-Ryan Aplin,2,1,-0.12217,2024,Georgia Southern,2025,Georgia Southern,0.173507,0.433968,1.247085,FALSE,,,,,
-Matt Mumme,7,2,-0.12666,2019,Nevada,2025,Colorado State,0.165918,0.408545,1.299891,FALSE,,,,,
-Tim Plough,2,1,-0.12702,2021,Boise State,2022,Boise State,0.214785,0.435463,1.205738,FALSE,,,,,
-Charlie Frye,4,2,-0.13112,2019,Central Michigan,2024,Florida Atlantic,0.159066,0.414411,1.271471,FALSE,,,,,
-Doug Meacham,2,2,-0.13308,2021,TCU,2025,Oklahoma State,0.167793,0.391801,1.329938,FALSE,,,,,
-Matt Kubik,4,2,-0.14104,2019,Louisiana Monroe,2023,Louisiana Monroe,0.146953,0.400587,1.312732,FALSE,,,,,
-Dana Holgorsen,2,2,-0.14317,2023,Houston,2025,Nebraska,0.172289,0.447769,1.213396,TRUE,2011,West Virginia,2023,Houston,
-Cody Worley,2,1,-0.15483,2024,Army,2025,Army,0.23901,0.47106,1.094989,FALSE,,,,,
-Jake Peetz,1,1,-0.15584,2021,LSU,2021,LSU,0.177726,0.406173,1.315678,FALSE,,,,,
-Sean Lewis,3,2,-0.157,2023,Colorado,2025,San Diego State,0.182235,0.411874,1.272611,TRUE,2018,Kent State,2025,San Diego State,
-Darrell Dickey,4,1,-0.16333,2019,Texas A&M,2022,Texas A&M,0.190635,0.455791,1.17174,FALSE,,,,,
-Chad Morris,1,1,-0.16541,2020,Auburn,2020,Auburn,0.188716,0.434659,1.200393,TRUE,2015,SMU,2018,Arkansas,
-Mitch Stewart,2,1,-0.16634,2022,Middle Tennessee,2023,Middle Tennessee,0.133406,0.398359,1.329665,FALSE,,,,,
-Vacant,2,2,-0.16925,2022,Navy,2025,Florida Atlantic,0.160989,0.39288,1.328592,FALSE,,,,,
-Kasey Dunn,5,1,-0.17199,2020,Oklahoma State,2024,Oklahoma State,0.164379,0.416722,1.268022,FALSE,,,,,
-Eric Eidsness,5,1,-0.1832,2019,Northern Illinois,2023,Northern Illinois,0.177294,0.417218,1.239323,FALSE,,,,,
-Joe Moorhead,4,2,-0.19119,2020,Oregon,2025,Akron,0.17011,0.446116,1.206392,TRUE,2018,Mississippi State,2025,Akron,
-Mike Canales,2,1,-0.19454,2019,UTEP,2020,UTEP,0.158052,0.393779,1.289149,TRUE,2010,North Texas,2010,North Texas,
-Derrick Nix,2,1,-0.20323,2024,Auburn,2025,Auburn,0.199438,0.439688,1.176558,FALSE,,,,,
-Tavita Pritchard,4,1,-0.20907,2019,Stanford,2022,Stanford,0.171131,0.432925,1.222462,FALSE,,,,,
-Marcus Satterfield,4,2,-0.20956,2021,South Carolina,2024,Nebraska,0.167818,0.411218,1.27806,FALSE,,,,,
-Mike Leach,4,2,-0.21075,2019,Washington State,2022,Mississippi State,0.179313,0.473407,1.115604,TRUE,2012,Washington State,2021,Mississippi State,
-Eric Evans,2,1,-0.21083,2021,Western Michigan,2022,Western Michigan,0.175106,0.420735,1.247845,FALSE,,,,,
-Troy Walters,1,1,-0.21453,2019,Nebraska,2019,Nebraska,0.130617,0.42126,1.241261,FALSE,,,,,
-Donnie Kirkpatrick,5,1,-0.21589,2019,East Carolina,2023,East Carolina,0.147368,0.398723,1.303844,FALSE,,,,,
-Jim Chaney,3,2,-0.22491,2019,Tennessee,2024,Georgia State,0.143637,0.418298,1.253396,TRUE,2012,Tennessee,2012,Tennessee,
-Curtis Luper,1,1,-0.22698,2022,Missouri,2022,Missouri,0.151368,0.404617,1.280817,FALSE,,,,,
-Mark Whipple,4,2,-0.22848,2019,Pittsburgh,2022,Nebraska,0.179699,0.425398,1.214309,TRUE,2014,UMass,2018,UMass,
-Tino Sunseri,1,1,-0.23248,2025,UCLA,2025,UCLA,0.205717,0.464789,1.126274,FALSE,,,,,
-Graham Harrell,6,3,-0.23402,2019,USC,2024,Purdue,0.175826,0.447584,1.179257,FALSE,,,,,
-Glenn Thomas,3,2,-0.23759,2020,UNLV,2022,Arizona State,0.156027,0.396161,1.29781,FALSE,,,,,
-Joey Lynch,4,3,-0.23854,2019,Ball State,2023,Vanderbilt,0.117673,0.391004,1.325767,FALSE,,,,,
-James Coley,1,1,-0.24804,2019,Georgia,2019,Georgia,0.177965,0.470383,1.099241,FALSE,,,,,
-Philip Montgomery,6,3,-0.25109,2019,Tulsa,2025,Virginia Tech,0.150475,0.415256,1.256265,TRUE,2015,Tulsa,2022,Tulsa,
-Will Lawing,2,1,-0.25698,2024,Boston College,2025,Boston College,0.170233,0.418831,1.24034,FALSE,,,,,
-Brent Davis,4,1,-0.26062,2019,Army,2022,Army,0.213218,0.446875,1.125759,FALSE,,,,,
-Anthony Tucker,2,1,-0.26171,2021,Utah State,2022,Utah State,0.144131,0.392148,1.323955,FALSE,,,,,
-George Barnett,2,1,-0.26218,2019,Miami (OH),2020,Miami (OH),0.147146,0.3914,1.303008,FALSE,,,,,
-Garin Justice,1,1,-0.26766,2019,UNLV,2019,UNLV,0.137546,0.399171,1.262645,FALSE,,,,,
-Eric Morris,1,1,-0.2801,2022,Washington State,2022,Washington State,0.132238,0.42125,1.251744,TRUE,2023,North Texas,2025,North Texas,
-Frank Cignetti Jr.,4,2,-0.28316,2020,Boston College,2023,Pittsburgh,0.148263,0.415358,1.261888,FALSE,,,,,
-Scotty Ohara,1,1,-0.28317,2023,UTEP,2023,UTEP,0.152072,0.396783,1.2846,FALSE,,,,,
-Jacob Peeler,2,1,-0.29034,2020,Texas State,2021,Texas State,0.149259,0.406262,1.283626,FALSE,,,,,
-Marques Tuiasosopo,4,1,-0.29041,2021,Rice,2024,Rice,0.138114,0.40243,1.298823,TRUE,2013,Washington,2013,Washington,
-Bush Hamdan,4,3,-0.31355,2019,Washington,2025,Kentucky,0.159366,0.441515,1.176794,FALSE,,,,,
-Bobby Engram,1,1,-0.31568,2022,Wisconsin,2022,Wisconsin,0.146932,0.415493,1.238262,FALSE,,,,,
-Eric Bieniemy,1,1,-0.33067,2024,UCLA,2024,UCLA,0.137172,0.39021,1.314064,FALSE,,,,,
-John Donovan,2,1,-0.33079,2020,Washington,2021,Washington,0.189231,0.442017,1.171754,FALSE,,,,,
-Anthony Arceneaux,1,1,-0.33378,2025,Hawai'i,2025,Hawai'i,0.143964,0.406746,1.269209,FALSE,,,,,
-Mike Shula,1,1,-0.33858,2025,South Carolina,2025,South Carolina,0.13897,0.369697,1.346598,FALSE,,,,,
-Chip Long,4,4,-0.34103,2019,Notre Dame,2024,Southern Mississippi,0.117839,0.385934,1.331301,FALSE,,,,,
-Bryan Ellis,4,2,-0.34362,2019,Western Kentucky,2023,Georgia Southern,0.15223,0.43823,1.161984,FALSE,,,,,
-Brandon Streeter,1,1,-0.3445,2022,Clemson,2022,Clemson,0.170169,0.449791,1.138111,FALSE,,,,,
-Wesley Beschorner,1,1,-0.34748,2024,Northern Illinois,2024,Northern Illinois,0.161012,0.42069,1.22988,FALSE,,,,,
-Jim Chapin,1,1,-0.34761,2025,Central Michigan,2025,Central Michigan,0.208606,0.40303,1.211779,FALSE,,,,,
-Dean Kennedy,2,1,-0.34822,2024,James Madison,2025,James Madison,0.164682,0.442561,1.177667,FALSE,,,,,
-Chris Creighton,4,1,-0.35297,2020,Eastern Michigan,2023,Eastern Michigan,0.179876,0.438471,1.167427,TRUE,2014,Eastern Michigan,2025,Eastern Michigan,
-Tony Petersen,2,2,-0.35316,2020,Appalachian State,2021,Illinois,0.182817,0.433189,1.189831,FALSE,,,,,
-Patrick Welsh,3,1,-0.35916,2023,Miami (OH),2025,Miami (OH),0.144092,0.393341,1.286579,FALSE,,,,,
-Noel Mazzone,2,1,-0.36665,2019,Arizona,2020,Arizona,0.121197,0.400268,1.237976,FALSE,,,,,
-Tim Polasek,3,1,-0.37398,2021,Wyoming,2023,Wyoming,0.168597,0.426434,1.192706,FALSE,,,,,
-Shane Montgomery,3,2,-0.37706,2021,Buffalo,2024,UMass,0.170825,0.424556,1.199805,FALSE,,,,,
-Dave Patenaude,5,2,-0.38285,2019,Georgia Tech,2025,Buffalo,0.131431,0.394439,1.286554,FALSE,,,,,
-Timmy Chang,1,1,-0.39195,2024,Hawai'i,2024,Hawai'i,0.165963,0.44171,1.1742,TRUE,2022,Hawai'i,2025,Hawai'i,
-Drew Hollingshead,2,2,-0.39266,2023,Western Kentucky,2025,Coastal Carolina,0.125481,0.386497,1.291708,FALSE,,,,,
-Kevin Barbay,4,4,-0.39448,2021,Central Michigan,2024,Houston,0.139901,0.399785,1.280596,FALSE,,,,,
-Re'Quan Boyette,1,1,-0.39922,2021,Duke,2021,Duke,0.175139,0.42915,1.202967,FALSE,,,,,
-Des Kitchings,5,2,-0.40047,2019,NC State,2025,Virginia,0.159449,0.424571,1.200663,FALSE,,,,,
-Scott Ishpording,1,1,-0.4031,2021,Ohio,2021,Ohio,0.196292,0.446694,1.144616,FALSE,,,,,
-Mike Miller,2,1,-0.40345,2023,Charlotte,2024,Charlotte,0.069411,0.357418,1.410556,FALSE,,,,,
-Paul Petrino,3,2,-0.40669,2022,Central Michigan,2025,South Alabama,0.139115,0.400187,1.256602,FALSE,,,,,
-Tony Franklin,3,2,-0.41541,2019,Middle Tennessee,2025,Louisiana Tech,0.1441,0.414782,1.196949,FALSE,,,,,
-Bryan Harsin,1,1,-0.41694,2025,California,2025,California,0.087874,0.405542,1.298618,TRUE,2013,Arkansas State,2021,Auburn,
-Kevin Reihner,1,1,-0.42825,2022,Old Dominion,2022,Old Dominion,0.101058,0.343348,1.396482,FALSE,,,,,
-Bill Musgrave,3,1,-0.43724,2020,California,2022,California,0.160079,0.403908,1.212172,FALSE,,,,,
-Tyler Bowen,3,1,-0.43963,2022,Virginia Tech,2024,Virginia Tech,0.141928,0.40617,1.233302,FALSE,,,,,
-Clint Trickett,3,2,-0.44457,2022,Marshall,2025,Jacksonville State,0.13514,0.412987,1.230622,FALSE,,,,,
-Luke Meadows,1,1,-0.4466,2021,Troy,2021,Troy,0.118081,0.391429,1.324551,FALSE,,,,,
-Eddie Gran,2,1,-0.44722,2019,Kentucky,2020,Kentucky,0.144313,0.428317,1.150745,FALSE,,,,,
-Bob DeBesse,2,1,-0.453,2019,Georgia Southern,2020,Georgia Southern,0.162999,0.426287,1.146349,FALSE,,,,,
-Joe Sloan,2,1,-0.4557,2020,Louisiana Tech,2021,Louisiana Tech,0.120953,0.399985,1.262858,FALSE,,,,,
-Steve Casula,3,2,-0.45689,2022,UMass,2025,Michigan,0.145162,0.393093,1.257985,FALSE,,,,,
-Beau Baldwin,2,2,-0.45885,2019,California,2023,Arizona State,0.125389,0.385183,1.267274,FALSE,,,,,
-David Yost,6,3,-0.46203,2019,Texas Tech,2025,New Mexico State,0.11765,0.39995,1.259544,FALSE,,,,,
-Bob Stitt,1,1,-0.46891,2019,Texas State,2019,Texas State,0.049062,0.353796,1.373948,FALSE,,,,,
-Brent Vigen,2,1,-0.47298,2019,Wyoming,2020,Wyoming,0.137135,0.392807,1.221016,FALSE,,,,,
-Luke Schleusner,1,1,-0.47742,2025,New Mexico,2025,New Mexico,0.160028,0.431122,1.161121,FALSE,,,,,
-Mike Lynch,1,1,-0.47924,2019,Syracuse,2019,Syracuse,0.116518,0.388175,1.247523,FALSE,,,,,
-Sam Gregg,2,1,-0.48289,2022,Southern Mississippi,2023,Southern Mississippi,0.096451,0.375843,1.323898,FALSE,,,,,
-Danny Langsdorf,3,1,-0.48367,2022,Temple,2024,Temple,0.100716,0.367842,1.344602,FALSE,,,,,
-Joe Rudolph,3,1,-0.48555,2019,Wisconsin,2021,Wisconsin,0.158455,0.455117,1.098575,FALSE,,,,,
-Slade Nagle,2,2,-0.48632,2023,Tulane,2025,Houston,0.129277,0.393527,1.257252,TRUE,2023,Tulane,2023,Tulane,
-Brad Cornelsen,5,2,-0.49473,2019,Virginia Tech,2024,Sam Houston State,0.159848,0.419494,1.188255,FALSE,,,,,
-Jon Budmayr,1,1,-0.5071,2021,Colorado State,2021,Colorado State,0.171436,0.403958,1.22741,FALSE,,,,,
-Jake Brown,3,2,-0.50932,2022,Louisiana Tech,2024,UTEP,0.111628,0.393709,1.280426,FALSE,,,,,
-Kevin Sumlin,1,1,-0.51883,2024,Maryland,2024,Maryland,0.127801,0.409326,1.239855,TRUE,2010,Houston,2020,Arizona,
-Steve Spurrier Jr.,2,1,-0.53821,2023,Tulsa,2024,Tulsa,0.117118,0.375789,1.301095,FALSE,,,,,
-Kevin Lynch,3,1,-0.53891,2020,Ball State,2022,Ball State,0.145567,0.427015,1.172126,FALSE,,,,,
-Rich Scangarello,1,1,-0.54306,2022,Kentucky,2022,Kentucky,0.103568,0.400778,1.24651,FALSE,,,,,
-Brent Dearmon,3,3,-0.55421,2020,Kansas,2022,Florida Atlantic,0.093343,0.369313,1.308754,FALSE,,,,,
-Joe Dailey,1,1,-0.55923,2019,New Mexico,2019,New Mexico,0.094118,0.398964,1.226769,FALSE,,,,,
-Tavita Thompson,1,1,-0.55984,2024,Central Michigan,2024,Central Michigan,0.145651,0.386606,1.257189,FALSE,,,,,
-Nick Coleman,1,1,-0.56744,2025,Florida International,2025,Florida International,0.108115,0.399425,1.245552,FALSE,,,,,
-Rich Rodriguez,3,3,-0.57115,2019,Ole Miss,2025,West Virginia,0.108452,0.37714,1.285341,TRUE,2010,Michigan,2025,West Virginia,
-Jay Johnson,7,3,-0.57618,2019,Colorado,2025,Wyoming,0.100618,0.393522,1.257434,FALSE,,,,,
-Greg Harbaugh Jr.,3,1,-0.57897,2023,Minnesota,2025,Minnesota,0.147909,0.427235,1.155031,FALSE,,,,,
-Matt Moore,1,1,-0.58132,2019,West Virginia,2019,West Virginia,0.080169,0.372951,1.281912,FALSE,,,,,
-Tommy Zagorski,3,1,-0.59179,2019,Akron,2021,Akron,0.051399,0.360388,1.360863,FALSE,,,,,
-Mike Sanford Jr.,4,3,-0.605,2019,Utah State,2022,Colorado,0.130582,0.415161,1.184351,TRUE,2017,Western Kentucky,2018,Western Kentucky,
-Sterlin Gilbert,2,1,-0.60919,2020,Syracuse,2021,Syracuse,0.099214,0.370212,1.286294,FALSE,,,,,
-Mike Piatkowski,2,1,-0.62013,2024,Eastern Michigan,2025,Eastern Michigan,0.133904,0.425296,1.172501,FALSE,,,,,
-Kenny Edenfield,2,1,-0.6228,2019,South Alabama,2020,South Alabama,0.081498,0.379139,1.271746,FALSE,,,,,
-Russ Callaway,1,1,-0.62575,2025,Florida,2025,Florida,0.143025,0.413105,1.167477,FALSE,,,,,
-Tim Lester,2,1,-0.63581,2024,Iowa,2025,Iowa,0.163787,0.442153,1.097027,TRUE,2017,Western Michigan,2022,Western Michigan,
-Todd Fitch,3,3,-0.63873,2019,Louisiana Tech,2025,Charlotte,0.104936,0.409291,1.179346,TRUE,2020,Vanderbilt,2020,Vanderbilt,
-Billy Cosh,1,1,-0.64004,2023,Western Michigan,2023,Western Michigan,0.139111,0.39923,1.193697,FALSE,,,,,
-Doug Ruse,1,1,-0.64041,2021,Georgia Southern,2021,Georgia Southern,0.113033,0.373077,1.312222,FALSE,,,,,
-Jared Elliott,2,1,-0.64705,2023,Ball State,2024,Ball State,0.133158,0.40929,1.185924,FALSE,,,,,
-Rich Skrosky,2,1,-0.64897,2019,Florida International,2020,Florida International,0.10259,0.372535,1.238266,FALSE,,,,,
-Troy Taylor,2,1,-0.65279,2023,Stanford,2024,Stanford,0.104791,0.391129,1.253608,TRUE,2023,Stanford,2024,Stanford,
-Jeff Hecklinski,3,1,-0.6538,2020,San Diego State,2022,San Diego State,0.107767,0.385833,1.245688,FALSE,,,,,
-Walt Bell,4,2,-0.65894,2022,Indiana,2025,Western Michigan,0.124481,0.413223,1.168546,TRUE,2019,UMass,2020,UMass,
-Nate Byham,1,1,-0.68173,2025,Stanford,2025,Stanford,0.111301,0.381766,1.24274,FALSE,,,,,
-Ryan Gunderson,2,1,-0.68202,2024,Oregon State,2025,Oregon State,0.132009,0.429944,1.137115,FALSE,,,,,
-Bodie Reeder,3,2,-0.69453,2020,Utah State,2025,Middle Tennessee,0.080994,0.379251,1.262453,FALSE,,,,,
-Kerwin Bell,1,1,-0.6997,2019,South Florida,2019,South Florida,0.108671,0.392857,1.189249,FALSE,,,,,
-Nick Charlton,2,1,-0.73237,2022,Connecticut,2023,Connecticut,0.092127,0.388602,1.231876,FALSE,,,,,
-Taylor Housewright,1,1,-0.73974,2024,Akron,2024,Akron,0.066164,0.388336,1.281947,FALSE,,,,,
-Zach Lujan,2,1,-0.73976,2024,Northwestern,2025,Northwestern,0.094333,0.41444,1.20556,FALSE,,,,,
-Mike Uremovich,4,2,-0.77506,2019,Temple,2025,Ball State,0.082681,0.380191,1.238925,TRUE,2025,Ball State,2025,Ball State,
-Derek Dooley,1,1,-0.79003,2019,Missouri,2019,Missouri,0.13061,0.422721,1.091043,TRUE,2010,Tennessee,2011,Tennessee,
-Brad Salem,1,1,-0.80027,2019,Michigan State,2019,Michigan State,0.091582,0.413043,1.141013,FALSE,,,,,
-Jeff Kastl,1,1,-0.80301,2019,UT San Antonio,2019,UT San Antonio,0.101652,0.388441,1.177213,FALSE,,,,,
-Kirk Campbell,2,2,-0.80436,2021,Old Dominion,2024,Michigan,0.123231,0.405077,1.194093,FALSE,,,,,
-Zac Roper,2,1,-0.84545,2019,Duke,2020,Duke,0.061071,0.386935,1.20945,FALSE,,,,,
-Angelo Mirando,1,1,-0.86351,2021,UMass,2021,UMass,0.087231,0.374793,1.27215,FALSE,,,,,
-Ian Shoemaker,1,1,-0.87046,2022,Hawai'i,2022,Hawai'i,0.07611,0.39863,1.185077,FALSE,,,,,
-Larry Fedora,1,1,-0.87975,2020,Baylor,2020,Baylor,0.049597,0.342373,1.28144,TRUE,2010,Southern Mississippi,2018,North Carolina,
-Darrin Chiaverini,2,1,-0.88328,2020,Colorado,2021,Colorado,0.098546,0.372976,1.226344,FALSE,,,,,
-Clay Patterson,1,1,-0.88831,2025,Kent State,2025,Kent State,0.040591,0.34252,1.324031,FALSE,,,,,
-Ty Darlington,1,1,-0.89534,2025,Tulsa,2025,Tulsa,0.064401,0.38716,1.21016,FALSE,,,,,
-Sean Gleeson,4,2,-0.90327,2019,Oklahoma State,2022,Rutgers,0.08514,0.390433,1.178086,FALSE,,,,,
-Frank Giufre,2,1,-0.90635,2019,Connecticut,2021,Connecticut,0.018215,0.345277,1.34874,FALSE,,,,,
-Danny Freund,1,1,-0.90996,2025,Washington State,2025,Washington State,0.124918,0.421829,1.079496,FALSE,,,,,
-Eman Naghavi,1,1,-0.91586,2020,Louisiana Monroe,2020,Louisiana Monroe,0.026428,0.353175,1.271497,FALSE,,,,,
-Mike Bajakian,6,3,-0.933,2019,Boston College,2025,UMass,0.087396,0.391583,1.167222,FALSE,,,,,
-Freddie Kitchens,1,1,-0.95281,2025,North Carolina,2025,North Carolina,0.080694,0.386792,1.177924,FALSE,,,,,
-Ryan Lindley,1,1,-0.95544,2023,San Diego State,2023,San Diego State,0.116054,0.418956,1.087777,FALSE,,,,,
-Gerry Gdowski,1,1,-0.96103,2019,Vanderbilt,2019,Vanderbilt,0.066308,0.377358,1.18866,FALSE,,,,,
-Jerry Mack,2,1,-0.97988,2019,Rice,2020,Rice,0.069439,0.395058,1.145709,TRUE,2025,Kennesaw State,2025,Kennesaw State,
-John McNulty,2,2,-0.98615,2019,Rutgers,2022,Boston College,0.059483,0.359187,1.241201,FALSE,,,,,
-David Raih,1,1,-0.9862,2021,Vanderbilt,2021,Vanderbilt,0.067294,0.344595,1.319191,FALSE,,,,,
-Cayden Cochran,1,1,-1.00052,2021,Southern Mississippi,2021,Southern Mississippi,0.030412,0.359447,1.32277,FALSE,,,,,
-Matt Drinkall,1,1,-1.02514,2023,Army,2023,Army,0.118241,0.395864,1.114776,TRUE,2025,Central Michigan,2025,Central Michigan,
-Grant Heard,2,1,-1.03954,2020,Indiana,2021,Indiana,0.077179,0.373631,1.198222,FALSE,,,,,
-DJ Mangas,1,1,-1.06706,2023,Buffalo,2023,Buffalo,0.053923,0.386164,1.185318,FALSE,,,,,
-Mark Cala,1,1,-1.07376,2025,UTEP,2025,UTEP,-0.03143,0.326923,1.365703,FALSE,,,,,
-Tyler Wright,1,1,-1.08499,2024,New Mexico State,2024,New Mexico State,0.051693,0.385196,1.21659,FALSE,,,,,
-Joe Jon Finley,1,1,-1.09476,2024,Oklahoma,2024,Oklahoma,0.06435,0.389744,1.193999,FALSE,,,,,
-Matt Johnson,1,1,-1.10015,2023,Kent State,2023,Kent State,0.047755,0.351648,1.254305,FALSE,,,,,
-Quinn Sanders,1,1,-1.11663,2025,Northern Illinois,2025,Northern Illinois,0.024855,0.29558,1.362483,FALSE,,,,,
-Grant Chesnut,1,1,-1.1338,2023,Navy,2023,Navy,0.062467,0.371429,1.189548,FALSE,,,,,
-Travis Partridge,1,1,-1.1378,2025,Bowling Green,2025,Bowling Green,0.029833,0.370474,1.201343,FALSE,,,,,
-Derek Sage,2,1,-1.15022,2022,Nevada,2023,Nevada,0.033315,0.355418,1.241837,FALSE,,,,,
-David Gilbertson,1,1,-1.15643,2025,Nevada,2025,Nevada,-0.02572,0.353125,1.282436,FALSE,,,,,
-Vince Munch,1,1,-1.1776,2025,Rice,2025,Rice,0.092235,0.406404,1.058635,FALSE,,,,,
-Doug Martin,3,1,-1.20575,2019,New Mexico State,2021,New Mexico State,0.035203,0.365696,1.171941,TRUE,2010,Kent State,2021,New Mexico State,
-Bryan McClendon,1,1,-1.22182,2019,South Carolina,2019,South Carolina,0.053501,0.403444,1.084579,TRUE,2021,Oregon,2021,Oregon,
-Jim Jackson,2,1,-1.29976,2019,UMass,2020,UMass,-0.04071,0.300852,1.316382,FALSE,,,,,
-Brian Ferentz,5,1,-1.30874,2019,Iowa,2023,Iowa,0.05304,0.391701,1.106359,FALSE,,,,,
-Zack Patterson,1,1,-1.31016,2025,Sam Houston State,2025,Sam Houston State,0.010693,0.375,1.157166,FALSE,,,,,
-Jeff Horton,1,1,-1.31142,2019,San Diego State,2019,San Diego State,0.064422,0.408751,1.042059,TRUE,2010,Minnesota,2010,Minnesota,
-Scott Parr,1,1,-1.3863,2024,Louisiana Tech,2024,Louisiana Tech,0.021318,0.374562,1.190784,FALSE,,,,,
-Terry Malone,3,1,-1.38715,2019,Bowling Green,2021,Bowling Green,0.021264,0.37221,1.133864,FALSE,,,,,
-Drew Mehringer,2,2,-1.40235,2020,Florida Atlantic,2021,New Mexico,0.010351,0.341627,1.231179,FALSE,,,,,
-Billy Fessler,1,1,-1.41114,2023,Akron,2023,Akron,0.035712,0.363636,1.155197,FALSE,,,,,
-Brian Scott,1,1,-1.46443,2019,Old Dominion,2019,Old Dominion,-0.02209,0.349614,1.189609,FALSE,,,,,
-Derek Warehime,2,1,-1.51074,2020,New Mexico,2022,New Mexico,0.019543,0.36381,1.118705,FALSE,,,,,
-Mick McCall,1,1,-1.63773,2019,Northwestern,2019,Northwestern,0.011536,0.364221,1.088204,FALSE,,,,,
-Chandler Burks,1,1,-1.77374,2024,Kennesaw State,2024,Kennesaw State,-0.03603,0.314493,1.263151,FALSE,,,,,
+coordinator,seasons,teams,z_composite,off_ppa,off_success_rate,off_explosiveness,earliest_season,earliest_team,latest_season,latest_team,became_hc,first_hc_season,first_hc_team,latest_hc_season,latest_hc_team
+Will Stein,2,1,2.509293154067418,0.4602704071388408,0.5438368387507967,1.3112999810568429,2023,Oregon,2025,Oregon,FALSE,,,,
+Steve Sarkisian,2,1,2.400265305396753,0.45833535322369673,0.5577473226074625,1.3292639831137687,2019,Alabama,2020,Alabama,TRUE,2009,Washington,2025,Texas
+Kevin Wilson,4,1,1.9965972212190064,0.40974364567372534,0.5281781429271493,1.3252265342722438,2019,Ohio State,2022,Ohio State,TRUE,2011,Indiana,2024,Tulsa
+Luke Huard,1,1,1.8505032148448755,0.38521555089342957,0.5212418300653595,1.2965738917463345,2025,USC,2025,USC,FALSE,,,,
+Keenan Bailey,1,1,1.8205999172824392,0.37416957635155157,0.5440900562851783,1.1508219290304504,2025,Ohio State,2025,Ohio State,FALSE,,,,
+Junior Adams,2,1,1.620834827052561,0.34701920611517145,0.5272059315326563,1.182527233331563,2022,Oregon,2024,Oregon,FALSE,,,,
+Bill Bedenbaugh,3,1,1.4319988265394206,0.34843285831658904,0.5060506347322616,1.281391102947722,2019,Oklahoma,2021,Oklahoma,FALSE,,,,
+Steve Ensminger,2,1,1.3467852040344057,0.31657756785668795,0.5082048877688565,1.23193924535313,2019,LSU,2020,LSU,FALSE,,,,
+Jimmie Dougherty,1,1,1.2722564824436486,0.3135653438164418,0.5070921985815603,1.2165256681724563,2025,Washington,2025,Washington,FALSE,,,,
+Dirk Koetter,1,1,1.2719606367618586,0.33366792134736,0.4748858447488584,1.3091733457840211,2024,Boise State,2024,Boise State,FALSE,,,,
+Chip Kelly,3,2,1.2400324629191317,0.3102386520191177,0.4885853150639166,1.2983524317603365,2022,UCLA,2024,Ohio State,TRUE,2009,Oregon,2023,UCLA
+Alex Golesh,3,2,1.2240321305533823,0.3308233497863511,0.4926465939401546,1.283598340166712,2020,UCF,2022,Tennessee,TRUE,2023,South Florida,2025,South Florida
+Drew Cronic,2,1,1.1905772549196456,0.32790968781740715,0.469293890200142,1.3490449236162798,2024,Navy,2025,Navy,FALSE,,,,
+Mike Denbrock,7,3,1.1236777924124954,0.3071570568894049,0.4846823245170332,1.2903802994388118,2019,Cincinnati,2025,Notre Dame,FALSE,,,,
+Kodi Burns,1,1,1.1040507300304832,0.3217650084609586,0.4636963696369637,1.3551972714114326,2025,South Florida,2025,South Florida,FALSE,,,,
+Todd Monken,3,1,1.0639057930214202,0.3037065834352182,0.4883389884528089,1.2574961227851469,2020,Georgia,2022,Georgia,TRUE,2013,Southern Mississippi,2015,Southern Mississippi
+Sherrone Moore,2,1,1.0544579119025053,0.28899141050034594,0.4903664497099117,1.2354354746259046,2022,Michigan,2023,Michigan,TRUE,2024,Michigan,2025,Michigan
+Jake Moreland,2,1,1.049214281555472,0.31484496447083676,0.484942943419166,1.2840965127241901,2019,Western Michigan,2020,Western Michigan,FALSE,,,,
+Landon Keopple,1,1,1.0374966355503596,0.3154792277628819,0.45875542691751087,1.3617881440291528,2025,Texas State,2025,Texas State,FALSE,,,,
+Darin Hinshaw,1,1,1.0156995726992206,0.30122016466084983,0.44921875,1.4574421510684235,2023,UCF,2023,UCF,FALSE,,,,
+Bill O'Brien,2,1,0.9892795797303856,0.3034803699681552,0.4690995244792713,1.3587147353526494,2021,Alabama,2022,Alabama,TRUE,2012,Penn State,2025,Boston College
+Brian Hartline,1,1,0.9862910335521924,0.30639809842001514,0.4667590027700831,1.2588737491339457,2023,Ohio State,2023,Ohio State,FALSE,,,,
+Newland Isaac,7,2,0.9815674017522943,0.28803606149306393,0.4912900837886193,1.216205858066472,2019,Coastal Carolina,2025,Liberty,FALSE,,,,
+Josh Henson,4,2,0.9744521190275027,0.2791574059325466,0.476000188464671,1.3246645322528652,2022,USC,2025,Purdue,FALSE,,,,
+Mike Shanahan,4,2,0.9487315309977002,0.2693893437303409,0.4923040488731272,1.2136677569913765,2022,James Madison,2025,Indiana,FALSE,,,,
+Billy Gonzales,2,1,0.9337309872293982,0.2879474007315531,0.4809715358387925,1.308161542244863,2019,Florida,2020,Florida,FALSE,,,,
+Andrew Sowder,4,1,0.9221636665734493,0.29400192317252616,0.4944105304034658,1.1939469522839505,2019,Kent State,2022,Kent State,FALSE,,,,
+Jordan Davis,3,1,0.9208320374940355,0.2830988896915713,0.456611210221021,1.419508097261997,2023,North Texas,2025,North Texas,FALSE,,,,
+Matt Mattox,1,1,0.909208571367725,0.27520147150262575,0.4885654885654886,1.2031443990680715,2022,UT San Antonio,2022,UT San Antonio,FALSE,,,,
+Gus Malzahn,1,1,0.9058895712979117,0.28621710525367766,0.4596774193548387,1.369992835751498,2025,Florida State,2025,Florida State,TRUE,2012,Arkansas State,2024,UCF
+Joey Halzle,3,1,0.90532674235421,0.28185016506307864,0.4803777238029826,1.2239582241983542,2023,Tennessee,2025,Tennessee,FALSE,,,,
+Josh Heupel,1,1,0.9020136872259417,0.2928439762563852,0.44954128440366975,1.4126645428608944,2019,UCF,2019,UCF,TRUE,2018,UCF,2025,Tennessee
+Corey Dennis,1,1,0.889787269127184,0.2894060287046633,0.4592476489028213,1.3452285751547397,2025,UNLV,2025,UNLV,FALSE,,,,
+Tony Elliott,3,1,0.8840016272954218,0.290364356129344,0.480267739371523,1.2935126676477604,2019,Clemson,2021,Clemson,TRUE,2022,Virginia,2025,Virginia
+Bobby Petrino,3,2,0.8635879129762741,0.269164396410631,0.47199475034413485,1.30648739087818,2023,Texas A&M,2025,Arkansas,TRUE,2009,Arkansas,2017,Louisville
+Scott Satterfield,1,1,0.8614845985949896,0.3185958326169286,0.44052287581699345,1.456290515279213,2021,Louisville,2021,Louisville,TRUE,2014,Appalachian State,2025,Cincinnati
+Conor Riley,1,1,0.8518297673437238,0.3006909304906236,0.44046094750320103,1.3800007160907344,2024,Kansas State,2024,Kansas State,FALSE,,,,
+Ryan Grubb,6,3,0.8331176184100588,0.2704020772489375,0.47691849973094985,1.2661851106038005,2019,Fresno State,2025,Alabama,FALSE,,,,
+Zak Hill,3,2,0.8265335808670415,0.2810475457650787,0.4726745581367559,1.3052587482611155,2019,Boise State,2021,Arizona State,FALSE,,,,
+Jim Svoboda,1,1,0.799693817017278,0.29796072004357643,0.4396751740139211,1.3746941417894631,2022,Tulane,2022,Tulane,FALSE,,,,
+Kurt Roper,1,1,0.7654080620724667,0.28992453807610075,0.43493761140819964,1.4147864763324178,2025,NC State,2025,NC State,TRUE,2018,Colorado,2018,Colorado
+Mack Leftwich,3,2,0.7611224120386805,0.2665198648188775,0.465897381338544,1.266797515494249,2023,Texas State,2025,Texas Tech,FALSE,,,,
+A.J. Ricker,1,1,0.7604939794131806,0.28756597747370316,0.4357298474945534,1.4213511139563586,2022,TCU,2022,TCU,FALSE,,,,
+Shannon Dawson,6,2,0.7352245314109775,0.26581510020946436,0.4614339070760499,1.2968758048919775,2020,Houston,2025,Miami,FALSE,,,,
+Tim Albin,2,1,0.7312346101360567,0.2611724702854207,0.46600975927688737,1.3053508985992424,2019,Ohio,2020,Ohio,TRUE,2021,Ohio,2025,Charlotte
+Dwayne Ledford,2,1,0.7149348447307575,0.2764346637769496,0.43152533914069235,1.4943476352560423,2019,Louisville,2020,Louisville,FALSE,,,,
+Andy Kotelnicki,7,3,0.7049785653565093,0.274979976112149,0.4598969550438907,1.2799384409019707,2019,Buffalo,2025,Penn State,FALSE,,,,
+Jason Beck,3,3,0.6827353159786187,0.2681476057618074,0.4606994095962167,1.2358154816891724,2023,Syracuse,2025,Utah,FALSE,,,,
+Dan Mullen,1,1,0.6746341721715462,0.26970518019033457,0.4681107099879663,1.3067583480968934,2021,Florida,2021,Florida,TRUE,2009,Mississippi State,2025,UNLV
+Mike Thiessen,7,1,0.651594479926797,0.26842711987087975,0.48183865108541973,1.1051507165345886,2019,Air Force,2025,Air Force,FALSE,,,,
+Robert Weiner,1,1,0.6381965278486652,0.2592239610942519,0.45601851851851855,1.3611078714378433,2020,Toledo,2020,Toledo,FALSE,,,,
+Justin Frye,3,1,0.6113145305583461,0.2572975644325115,0.46475592384186587,1.263561278214551,2019,UCLA,2021,UCLA,FALSE,,,,
+Casey Woods,2,1,0.6048804565301716,0.25739702248561513,0.44403141232367493,1.3482486855402063,2022,SMU,2023,SMU,FALSE,,,,
+John David Baker,3,2,0.5869784731904,0.24822952934607342,0.45325170431592676,1.3073915689174354,2023,Ole Miss,2025,East Carolina,FALSE,,,,
+Cooper Bassett,1,1,0.5810440254029223,0.24462852915680894,0.4563106796116505,1.2917958848395321,2024,Utah State,2024,Utah State,FALSE,,,,
+Mike Bobo,5,3,0.578348018027042,0.2472278888203547,0.46576935351859206,1.220804664497978,2020,South Carolina,2025,Georgia,TRUE,2015,Colorado State,2020,South Carolina
+Collin Klein,4,2,0.5687210713418407,0.24971121193024193,0.4579998299177026,1.2489097367892859,2022,Kansas State,2025,Texas A&M,FALSE,,,,
+Buster Faulkner,4,2,0.5546664136082162,0.24415635491469406,0.4563667474232598,1.2748848803163184,2019,Southern Mississippi,2025,Georgia Tech,FALSE,,,,
+Jeff Lebby,6,3,0.5531253028018097,0.2448801697131793,0.4546600480833056,1.3300187452229353,2020,Ole Miss,2025,Mississippi State,TRUE,2024,Mississippi State,2025,Mississippi State
+Kent Austin,4,1,0.5450235457264244,0.24900274565798935,0.46089008250906,1.2862540512920804,2019,Liberty,2022,Liberty,FALSE,,,,
+Phil Longo,6,2,0.534070084324707,0.25270700422399145,0.45825474499242064,1.2770433134529728,2019,North Carolina,2024,Wisconsin,TRUE,2025,Sam Houston State,2025,Sam Houston State
+Nick Sheridan,1,1,0.5233115112700494,0.23471097110992176,0.4520166898470097,1.3226102471858496,2024,Alabama,2024,Alabama,FALSE,,,,
+Rob Sale,5,2,0.5175762192451389,0.2479718057298684,0.45096182785055317,1.2859089557248002,2019,Louisiana,2024,Florida,FALSE,,,,
+Kirby Moore,4,2,0.5051117443663947,0.23865514299890453,0.4610662939783804,1.2226502404266895,2022,Fresno State,2025,Missouri,FALSE,,,,
+Zach Kittley,4,2,0.4972378558925915,0.2425197394033116,0.45266666774002534,1.2859931215228335,2021,Western Kentucky,2024,Texas Tech,TRUE,2025,Florida Atlantic,2025,Florida Atlantic
+Chip Lindsey,3,2,0.4965391602360381,0.23816744417925584,0.4554564602023088,1.2597494115568422,2022,UCF,2024,North Carolina,TRUE,2019,Troy,2020,Troy
+Aaron Keen,1,1,0.4934972787102302,0.22971393244791627,0.4716981132075472,1.1781757864168902,2019,Eastern Michigan,2019,Eastern Michigan,FALSE,,,,
+Cody Worley,2,1,0.489604874852136,0.24740458031398743,0.4660528494348555,1.1035797335261783,2024,Army,2025,Army,FALSE,,,,
+Kendal Briles,7,3,0.4892564667545087,0.24261609982615484,0.44845577489998084,1.2980730439753636,2019,Florida State,2025,TCU,FALSE,,,,
+Garrett Riley,5,2,0.48308368038494526,0.24176429371259717,0.45583709127756195,1.2557098919678389,2020,SMU,2025,Clemson,FALSE,,,,
+Tim Beck,7,4,0.48052128780262654,0.24676666791756668,0.44628216906694573,1.297350705777095,2019,Texas,2025,Vanderbilt,TRUE,2023,Coastal Carolina,2025,Coastal Carolina
+Brad Glenn,6,2,0.4509080844265881,0.2328013123761723,0.4581506758921375,1.2421083198296805,2019,Georgia State,2025,Cincinnati,FALSE,,,,
+Kalen DeBoer,1,1,0.4508153586346317,0.2287702688348718,0.46905940594059403,1.165548760566114,2019,Indiana,2019,Indiana,TRUE,2020,Fresno State,2025,Alabama
+Brian Smith,4,3,0.4419144387652794,0.2271457892880077,0.461441724913219,1.2506131291290588,2019,Hawai'i,2024,Ohio,TRUE,2025,Ohio,2025,Ohio
+Tommy Rees,4,2,0.43840984528151605,0.2364536329505486,0.4565532973683323,1.2551392229251577,2020,Notre Dame,2023,Alabama,FALSE,,,,
+Kevin Johns,5,2,0.43308839600369364,0.24143441255745102,0.4395971179436829,1.3367231982157937,2019,Memphis,2023,Duke,FALSE,,,,
+Kyle Flood,5,1,0.428181498858773,0.2377710728227902,0.4464737698545566,1.2867707788099327,2021,Texas,2025,Texas,TRUE,2012,Rutgers,2015,Rutgers
+Ryan Pugh,2,1,0.42764477018233876,0.21820450859926319,0.4628399378399378,1.2327633391108186,2019,Troy,2020,Troy,FALSE,,,,
+Matt Lubick,4,3,0.424132401972462,0.23443799761041229,0.46174557979900266,1.2040805705206254,2020,Nebraska,2025,Kansas,FALSE,,,,
+Frank Ponce,3,1,0.42156046926535345,0.23446618064588812,0.44727301607952996,1.3134082797527056,2021,Appalachian State,2024,Appalachian State,FALSE,,,,
+Alex Mortensen,3,1,0.41788904043222175,0.22622191848145926,0.45376366725598904,1.2540961085504119,2023,UAB,2025,UAB,FALSE,,,,
+Brian Lindgren,7,2,0.40145175288752155,0.23005511824127683,0.4591230173216572,1.2089473021673063,2019,Oregon State,2025,Michigan State,FALSE,,,,
+Gordon Sammis,2,1,0.3946327973528928,0.24931212636621164,0.4374633559333112,1.2785641444571514,2024,Connecticut,2025,Connecticut,FALSE,,,,
+Ben Arbuckle,4,3,0.3914220569688376,0.21501100496684877,0.4498980857665178,1.2985476090378487,2022,Western Kentucky,2025,Oklahoma,FALSE,,,,
+Brennan Carroll,4,2,0.3903164234134108,0.21962168513342867,0.4608299708004998,1.2410926657541355,2021,Arizona,2024,Washington,FALSE,,,,
+Tim Cramsey,7,2,0.3813896678555204,0.2284565566942862,0.4495944926270234,1.2622612562367836,2019,Marshall,2025,Memphis,FALSE,,,,
+Aaron Roderick,5,1,0.37047852167147977,0.23083196011871,0.4427065150616155,1.3076874839429282,2021,BYU,2025,BYU,FALSE,,,,
+Charlie Weis Jr.,6,3,0.35980761051299026,0.2222046295711455,0.4462747052727387,1.2787486731347961,2019,Florida Atlantic,2025,Ole Miss,FALSE,,,,
+Rick Bowie,1,1,0.35454662485999056,0.2076623629144388,0.458528951486698,1.247669615451108,2025,Western Kentucky,2025,Western Kentucky,FALSE,,,,
+Tyler Walker,1,1,0.35327455056371226,0.22710132140693032,0.4541832669322709,1.1931304011472328,2025,Temple,2025,Temple,FALSE,,,,
+Ricky Rahne,1,1,0.34540145647170145,0.22751252566991279,0.44050632911392407,1.2937789362073178,2019,Penn State,2019,Penn State,TRUE,2021,Old Dominion,2025,Old Dominion
+Liam Coen,2,1,0.34431449012547827,0.22336146491468412,0.4510109949351293,1.2938247094861162,2021,Kentucky,2023,Kentucky,FALSE,,,,
+Marcus Arroyo,3,2,0.3332619692995387,0.2241457063874407,0.4506701494748229,1.2027666291449302,2019,Oregon,2025,Arizona State,TRUE,2020,UNLV,2022,UNLV
+Chad Scott,2,1,0.32085854575698425,0.22046571741299464,0.43525028624588524,1.3410602911215412,2023,West Virginia,2024,West Virginia,FALSE,,,,
+Rhett Lashlee,3,2,0.31811185944398734,0.23896739850466064,0.42902103539951647,1.357502141384539,2019,SMU,2021,Miami,TRUE,2022,SMU,2025,SMU
+Jeff Grimes,7,4,0.3161229054323346,0.22482579655477625,0.44660084065022726,1.2845683786576672,2019,BYU,2025,Wisconsin,FALSE,,,,
+Gerad Parker,3,2,0.3030896641301487,0.21950400786599258,0.44229170140101315,1.2793832045561653,2020,West Virginia,2023,Notre Dame,TRUE,2016,Purdue,2025,Troy
+Craig Stutzmann,2,1,0.2904639316585135,0.20921269902935896,0.44309769074032146,1.3149444681171607,2024,San Jose State,2025,San Jose State,FALSE,,,,
+Kyle Cefalo,1,1,0.2877128518627391,0.22762512302226848,0.4225181598062954,1.3663105818500358,2023,Utah State,2023,Utah State,FALSE,,,,
+Michael Desormeaux,1,1,0.27936366110740934,0.2304141644989243,0.45394736842105265,1.2507561180056002,2021,Louisiana,2021,Louisiana,TRUE,2021,Louisiana,2025,Louisiana
+Brennan Marion,2,1,0.2741841684579279,0.23194510304178664,0.42102411402231993,1.3631578203603807,2023,UNLV,2024,UNLV,FALSE,,,,
+Eliah Drinkwitz,3,2,0.27254185654605667,0.22840080372636362,0.4382013728527951,1.2826420959973834,2019,Appalachian State,2021,Missouri,FALSE,,,,
+Rob Ezell,2,2,0.2607630029105864,0.2106605996644214,0.4298625226761087,1.3295809594005719,2024,South Alabama,2025,Wake Forest,FALSE,,,,
+Tim Harris Jr.,2,1,0.24917015519001,0.21545111489851987,0.4457598473490527,1.2916188395542918,2021,UCF,2024,UCF,FALSE,,,,
+Dave Johnson,1,1,0.24064341567134018,0.20040334454180017,0.44606060606060605,1.282961156148848,2019,Colorado State,2019,Colorado State,FALSE,,,,
+Scott Isphording,3,1,0.2285019336949428,0.20719624522334887,0.44707386490396483,1.217635625302257,2022,Ohio,2025,Ohio,FALSE,,,,
+Barry Lunney Jr.,6,2,0.22769544476990516,0.2074950264551909,0.4462981047433455,1.2380040805518011,2020,UT San Antonio,2025,Illinois,TRUE,2019,Arkansas,2019,Arkansas
+Ryan Aplin,2,1,0.22384579233038063,0.21072616776004538,0.44113162027448394,1.2686789716717894,2024,Georgia Southern,2025,Georgia Southern,FALSE,,,,
+Robert Anae,6,3,0.2193111200171302,0.20470705889525392,0.44795307812949997,1.2456092155578191,2019,Virginia,2024,NC State,FALSE,,,,
+Will Hall,2,1,0.21488783616654958,0.19675892374632004,0.44896081797038123,1.2450577673906695,2019,Tulane,2020,Tulane,TRUE,2021,Southern Mississippi,2024,Southern Mississippi
+Justin Burke,3,1,0.20932702700633407,0.21482242823745248,0.4248957066990547,1.35356995006137,2023,UT San Antonio,2025,UT San Antonio,FALSE,,,,
+Alex Atkins,4,2,0.1947195311846425,0.21390067113082878,0.42841864317502065,1.3435273286617269,2019,Charlotte,2024,Florida State,FALSE,,,,
+Mike Yurcich,4,2,0.1905683502719958,0.21933332208231693,0.43342199837343187,1.2864425564481081,2020,Texas,2023,Penn State,FALSE,,,,
+Kevin Decker,3,1,0.18710727742545444,0.2049499514384385,0.4275589498324519,1.3613019271898241,2023,Old Dominion,2025,Old Dominion,FALSE,,,,
+Mike Leach,4,2,0.18574564444254962,0.17931323688990775,0.47340713814539603,1.115604327318838,2019,Washington State,2022,Mississippi State,TRUE,2009,Texas Tech,2021,Mississippi State
+Dean Kennedy,2,1,0.18234674066911172,0.19587105026897478,0.4467652550158552,1.2627855148400688,2024,James Madison,2025,James Madison,FALSE,,,,
+Brian Brohm,7,2,0.17634996509450152,0.19822542678331095,0.44914737269045774,1.2133429119919419,2019,Purdue,2025,Louisville,TRUE,2022,Purdue,2022,Purdue
+Travis Trickett,3,2,0.16866939735015918,0.2154081622429981,0.4210772558493226,1.3496442313985522,2022,South Florida,2024,Coastal Carolina,FALSE,,,,
+Tom Manning,4,1,0.16301681878243435,0.21067286519524842,0.4444007029194475,1.2331371133338636,2019,Iowa State,2022,Iowa State,FALSE,,,,
+Kevin McGiven,6,2,0.15674111712826916,0.20136008082135362,0.4354885875034061,1.3051148373149692,2019,San Jose State,2025,Utah State,FALSE,,,,
+Mike Bloesch,4,2,0.15552186639360738,0.22142216335913315,0.4240971049778402,1.3502186163963668,2020,North Texas,2024,California,FALSE,,,,
+Kirk Ciarrocca,6,3,0.15313590472797917,0.1982059493174484,0.449531630264182,1.1887873397592519,2019,Minnesota,2025,Rutgers,FALSE,,,,
+Seth Doege,2,2,0.14127606336518797,0.21024016214452068,0.4259778908750775,1.3078884597519673,2024,Marshall,2025,Arizona,FALSE,,,,
+Josh Gattis,5,3,0.13872599905038735,0.19990347709137266,0.4452402896672492,1.2249404566698567,2019,Michigan,2023,Maryland,FALSE,,,,
+Andy Ludwig,6,1,0.13677158755060007,0.19494484242839297,0.4489341299535635,1.2201469447109337,2019,Utah,2024,Utah,FALSE,,,,
+Brent Davis,4,1,0.1305407613599866,0.21321827852442995,0.4468750063882537,1.1257587211323032,2019,Army,2022,Army,FALSE,,,,
+Jim Chapin,1,1,0.12410008045254807,0.22550550831837188,0.4227188081936685,1.23422428162068,2025,Central Michigan,2025,Central Michigan,FALSE,,,,
+Terence Archer,1,1,0.12231084059069912,0.1903804441242719,0.4455587392550143,1.2187137669271428,2025,Delaware,2025,Delaware,FALSE,,,,
+James Coley,1,1,0.12137659656804928,0.1779646301896024,0.47038327526132406,1.0992408842475028,2019,Georgia,2019,Georgia,FALSE,,,,
+Major Applewhite,3,1,0.11450364816927736,0.2164675461309917,0.420912001811505,1.3315602122150287,2021,South Alabama,2023,South Alabama,TRUE,2016,Houston,2025,South Alabama
+Matt Miller,1,1,0.09041690156167163,0.21431531579862395,0.41262135922330095,1.328805936039094,2025,Boise State,2025,Boise State,FALSE,,,,
+Courtney Messingham,3,1,0.08354651399354827,0.2055068960653963,0.42872429078922275,1.2656222359610605,2019,Kansas State,2021,Kansas State,FALSE,,,,
+Mike Hallett,5,1,0.08180009345910999,0.20407186122135898,0.424565476697068,1.322572971154856,2021,Toledo,2025,Toledo,FALSE,,,,
+Darrell Dickey,4,1,0.07790324057151343,0.1906349715040318,0.4557913134682736,1.171739741799184,2019,Texas A&M,2022,Texas A&M,FALSE,,,,
+Jeff Nixon,1,1,0.07690987735053997,0.19146668171144446,0.44212962962962965,1.211942269408931,2019,Baylor,2019,Baylor,FALSE,,,,
+Pat Shurmur,2,1,0.06606406356928879,0.20759577194493634,0.40664891317920293,1.3819473068991948,2024,Colorado,2025,Colorado,FALSE,,,,
+Tim Plough,2,1,0.06399460823174269,0.21478509497445694,0.43546257897822266,1.2057383652188625,2021,Boise State,2022,Boise State,FALSE,,,,
+Luke Schleusner,1,1,0.05626759657075412,0.20090662608116003,0.4250386398763524,1.2667020295676374,2025,New Mexico,2025,New Mexico,FALSE,,,,
+Steve Shimko,1,1,0.05199745693114382,0.20149760826862062,0.4236276849642005,1.2662528241346962,2023,Boston College,2023,Boston College,FALSE,,,,
+Eric Kiesau,2,2,0.038788815720576617,0.1973675551630469,0.4276928909327663,1.269692038513369,2020,Boise State,2022,Auburn,TRUE,2016,Fresno State,2016,Fresno State
+Rob Likens,3,2,0.026971689434395107,0.1924722778217048,0.4231768546285541,1.3005308576888213,2019,Arizona State,2025,SMU,FALSE,,,,
+Nick Holz,1,1,0.02492535376825475,0.21016461243647075,0.41353383458646614,1.2894082124624993,2022,UNLV,2022,UNLV,FALSE,,,,
+Derrick Nix,2,1,0.01575401895356973,0.19065757182560605,0.43915776641245186,1.1749267983290068,2024,Auburn,2025,Auburn,FALSE,,,,
+Chad Morris,1,1,0.01258931973898493,0.18871572589442268,0.4346590909090909,1.2003926372546827,2020,Auburn,2020,Auburn,TRUE,2015,SMU,2018,Arkansas
+Sonny Cumbie,3,2,0.008448068680847095,0.19012694097150118,0.43490337396633394,1.2325972922266244,2019,TCU,2021,Texas Tech,TRUE,2021,Texas Tech,2025,Louisiana Tech
+Joe Moorhead,4,2,0.0058665769697029135,0.17733863253335236,0.44910588764009735,1.2115531270055326,2020,Oregon,2025,Akron,TRUE,2018,Mississippi State,2025,Akron
+Bryant Vincent,7,3,0.0013254258791165169,0.1962155561528438,0.4176021269499586,1.3177979388799348,2019,UAB,2025,Louisiana Monroe,TRUE,2022,UAB,2025,Louisiana Monroe
+Blake Anderson,1,1,-0.008394918772741615,0.1967482319737902,0.41412520064205455,1.3096164561652917,2025,Southern Mississippi,2025,Southern Mississippi,TRUE,2014,Arkansas State,2024,Utah State
+Warren Ruggiero,6,1,-0.01588107685248038,0.18768604639854267,0.43393550083479426,1.2368670595510072,2019,Wake Forest,2024,Wake Forest,FALSE,,,,
+Dan Enos,4,3,-0.017904516746009326,0.1921516863345639,0.4269763437472189,1.2680567321921477,2019,Miami,2023,Arkansas,TRUE,2010,Central Michigan,2014,Central Michigan
+GJ Kinne,1,1,-0.02516932265865298,0.19975971663540887,0.4065040650406504,1.3216662104335277,2020,Hawai'i,2020,Hawai'i,FALSE,,,,
+Graham Harrell,6,3,-0.02744382587687075,0.17582559459380573,0.4475844174110218,1.1792571934065477,2019,USC,2024,Purdue,FALSE,,,,
+Will Friend,1,1,-0.027814438229833593,0.1933417065945235,0.4177671068427371,1.323282374248874,2024,Western Kentucky,2024,Western Kentucky,FALSE,,,,
+Cortez Hankton,2,1,-0.033858669977604394,0.18521607818673008,0.4242838379894217,1.262375758448683,2024,LSU,2025,LSU,FALSE,,,,
+Jake Spavital,4,3,-0.035027503856812844,0.18398129730279755,0.42341634976362263,1.2783032503536889,2022,Texas State,2025,Baylor,TRUE,2019,Texas State,2022,Texas State
+Bush Hamdan,4,3,-0.03916191402760291,0.16655080121695126,0.4476177365302564,1.1861249054492065,2019,Washington,2025,Kentucky,FALSE,,,,
+Brandon Streeter,1,1,-0.0417604624922108,0.17016906539157137,0.4497907949790795,1.138111058898646,2022,Clemson,2022,Clemson,FALSE,,,,
+Tim Leger,4,1,-0.042859815611580046,0.18665896077436225,0.4235789001395305,1.2474186978014465,2022,Louisiana,2025,Louisiana,FALSE,,,,
+Brian Wright,1,1,-0.05061808862847904,0.18983362233437448,0.4258064516129032,1.2318301544480426,2019,Toledo,2019,Toledo,TRUE,2013,Florida Atlantic,2013,Florida Atlantic
+Taylor Mouser,2,1,-0.05689712573381361,0.1800507819595235,0.4236923929238178,1.2940109147113161,2024,Iowa State,2025,Iowa State,FALSE,,,,
+Anthony Arceneaux,1,1,-0.06659964398406121,0.18175800320384938,0.41285714285714287,1.3346135927818552,2025,Hawai'i,2025,Hawai'i,FALSE,,,,
+Les Koenning,1,1,-0.07005576773540098,0.1795776530090849,0.4212121212121212,1.2948721963712135,2019,Kansas,2019,Kansas,FALSE,,,,
+Kenny Dillingham,3,2,-0.07178085243874469,0.19242976024874064,0.4204301944790362,1.2802844897924093,2019,Auburn,2021,Florida State,TRUE,2023,Arizona State,2025,Arizona State
+Joe Craddock,5,3,-0.07270176746745091,0.18205119061111344,0.41834548746344424,1.2950470418396531,2019,Arkansas,2025,Tulane,FALSE,,,,
+Bo Graham,1,1,-0.07301214203567334,0.1993794815231021,0.4222222222222222,1.3354106551456908,2021,Hawai'i,2021,Hawai'i,FALSE,,,,
+Kade Bell,2,1,-0.07852069086145122,0.1808242758592552,0.4093964624585279,1.3831436902542653,2024,Pittsburgh,2025,Pittsburgh,FALSE,,,,
+Scott Ishpording,1,1,-0.08148407257233486,0.19629190197079466,0.446693657219973,1.1446155928830888,2021,Ohio,2021,Ohio,FALSE,,,,
+Jonathan Brewer,2,1,-0.09473816933577606,0.1803837684549433,0.4231352492678021,1.2972818089305402,2024,Duke,2025,Duke,FALSE,,,,
+Mike Johnson,3,2,-0.09519587139450869,0.17379923148836512,0.42701691404195524,1.284618821756523,2021,Florida Atlantic,2025,Syracuse,FALSE,,,,
+Dowell Loggains,3,2,-0.09544305592391628,0.17851391366231306,0.4185761651034736,1.2907509072697847,2023,South Carolina,2025,Appalachian State,TRUE,2025,Appalachian State,2025,Appalachian State
+John Donovan,2,1,-0.09580301568322236,0.18923127046243432,0.4420173007474595,1.1717538307123332,2020,Washington,2021,Washington,FALSE,,,,
+Chris Creighton,4,1,-0.11432844507577973,0.17987629302980415,0.4384711746509511,1.167427016978606,2020,Eastern Michigan,2023,Eastern Michigan,TRUE,2014,Eastern Michigan,2025,Eastern Michigan
+Joe Rudolph,3,1,-0.11619246701088819,0.15845494035014476,0.4551168151070183,1.0985746238617466,2019,Wisconsin,2021,Wisconsin,FALSE,,,,
+Andrew Breiner,2,2,-0.12955273213415008,0.18907924417436023,0.4119325184508533,1.3528655251714667,2019,Mississippi State,2021,Florida International,FALSE,,,,
+Mark Whipple,4,2,-0.13521226465622999,0.1796989359763292,0.4253979675768236,1.2143092263614639,2019,Pittsburgh,2022,Nebraska,TRUE,2014,UMass,2018,UMass
+Timmy Chang,1,1,-0.13767601492270043,0.16596281721176642,0.4417098445595855,1.1742000512741582,2024,Hawai'i,2024,Hawai'i,TRUE,2022,Hawai'i,2025,Hawai'i
+Dana Holgorsen,2,2,-0.144695466356639,0.15117379000768605,0.4433695570640963,1.1868169538727231,2023,Houston,2025,Nebraska,TRUE,2011,West Virginia,2023,Houston
+Lance Taylor,1,1,-0.14988442298876103,0.1705660925053176,0.4128329297820823,1.328464233123507,2022,Louisville,2022,Louisville,TRUE,2023,Western Michigan,2025,Western Michigan
+Marquel Blackwell,1,1,-0.15051197663283372,0.16212938087817622,0.42392717815344605,1.2831826763681695,2019,Houston,2019,Houston,FALSE,,,,
+Bryan Ellis,4,2,-0.15710629023664063,0.15222984488799976,0.4382300706272136,1.1619837229985186,2019,Western Kentucky,2023,Georgia Southern,FALSE,,,,
+Hue Jackson,1,1,-0.16204823191817402,0.16940751742360938,0.41362126245847175,1.3008430491083436,2025,Georgia State,2025,Georgia State,FALSE,,,,
+Tavita Pritchard,4,1,-0.16737053114571604,0.17113091455959292,0.4329245148619339,1.2224616830581474,2019,Stanford,2022,Stanford,FALSE,,,,
+Eric Eidsness,5,1,-0.1713685063638432,0.17729378596494838,0.41721781297289734,1.2393234193679268,2019,Northern Illinois,2023,Northern Illinois,FALSE,,,,
+Tony Petersen,2,2,-0.18226980870277648,0.18281715664875872,0.4331886980228672,1.1898314871432958,2020,Appalachian State,2021,Illinois,FALSE,,,,
+Rod Smith,5,3,-0.18261151754752886,0.165004906552968,0.41724427174253353,1.2649949100514122,2019,Illinois,2025,Marshall,TRUE,2020,Illinois,2020,Illinois
+Trent McKnight,2,1,-0.1858192306350833,0.17064915974456946,0.4090146046667786,1.3192178540264192,2022,Georgia State,2023,Georgia State,FALSE,,,,
+Greg Nosal,3,1,-0.19313761996260448,0.17453223324716458,0.40998105709353255,1.296590789497503,2022,Bowling Green,2024,Bowling Green,FALSE,,,,
+Eric Koehler,2,1,-0.19396674428427574,0.18892167493141657,0.4024722669311266,1.3466305539828909,2021,Miami (OH),2022,Miami (OH),FALSE,,,,
+Nick Coleman,1,1,-0.19717699190448856,0.16485518654591633,0.41185897435897434,1.3035147281511448,2025,Florida International,2025,Florida International,FALSE,,,,
+Sean Reagan,2,1,-0.19849525307721613,0.16637303741361353,0.4162252379510981,1.272566275861955,2024,Troy,2025,Troy,FALSE,,,,
+Ivin Jasper,3,1,-0.19999842776816312,0.19009662649615183,0.400501687427418,1.2803925117448363,2019,Navy,2021,Navy,FALSE,,,,
+Eric Evans,2,1,-0.21016182309716624,0.17510567300743243,0.4207345375464563,1.247844646928238,2021,Western Michigan,2022,Western Michigan,FALSE,,,,
+Gino Guidugli,1,1,-0.21241868832368546,0.1834156407905227,0.4024242424242424,1.2873139191185945,2022,Cincinnati,2022,Cincinnati,FALSE,,,,
+Pat McCann,2,1,-0.21295686206344475,0.16480793873531052,0.4147582374896557,1.3106181914049255,2023,Fresno State,2024,Fresno State,FALSE,,,,
+Drew Hollingshead,2,2,-0.22624426054487456,0.17301387617418668,0.4006563735056331,1.331572888432563,2023,Western Kentucky,2025,Coastal Carolina,FALSE,,,,
+Kasey Dunn,5,1,-0.22659053001509927,0.16437913685600725,0.41672162874443136,1.2680221186573737,2020,Oklahoma State,2024,Oklahoma State,FALSE,,,,
+Tony Franklin,3,2,-0.23155565979524909,0.15851240402601485,0.4207953605952623,1.2198329338703515,2019,Middle Tennessee,2025,Louisiana Tech,FALSE,,,,
+Tim Polasek,3,1,-0.23505937496557536,0.168596776934393,0.42643373528914913,1.1927062217456321,2021,Wyoming,2023,Wyoming,FALSE,,,,
+Dave Warner,2,1,-0.2401283072518255,0.1802225746922399,0.39959422263840416,1.3780902300497369,2021,UTEP,2022,UTEP,FALSE,,,,
+Tommy Mainord,1,1,-0.2438254102569511,0.1501809704837004,0.42337662337662335,1.2604800517913568,2019,North Texas,2019,North Texas,FALSE,,,,
+Tino Sunseri,1,1,-0.2481389973245527,0.1512683386839432,0.4306306306306306,1.1808095810106474,2025,UCLA,2025,UCLA,FALSE,,,,
+Charlie Frye,4,2,-0.2497874692844949,0.15906643304839294,0.414410692603467,1.271470995540408,2019,Central Michigan,2024,Florida Atlantic,FALSE,,,,
+Matt Wells,1,1,-0.24995042151143346,0.16156178795383835,0.3987138263665595,1.3693532819348648,2025,Kansas State,2025,Kansas State,TRUE,2013,Utah State,2020,Texas Tech
+Nathan Scheelhaase,1,1,-0.253292018201158,0.18810991619251297,0.36300417246175243,1.5574865483980893,2023,Iowa State,2023,Iowa State,FALSE,,,,
+Shane Montgomery,3,2,-0.25772523924609225,0.17082461162970178,0.4245557278563089,1.1998047378905132,2021,Buffalo,2024,UMass,FALSE,,,,
+Bob DeBesse,2,1,-0.26821153847750956,0.1629985968381518,0.42628692367575105,1.1463488155088335,2019,Georgia Southern,2020,Georgia Southern,FALSE,,,,
+Mitch Militello,1,1,-0.2768510727635065,0.14547688665344094,0.41654357459379615,1.285364988241065,2025,Kennesaw State,2025,Kennesaw State,FALSE,,,,
+Tim Lester,2,1,-0.2856194189540714,0.15541751198434783,0.4349955846867812,1.1321603805292475,2024,Iowa,2025,Iowa,TRUE,2017,Western Michigan,2022,Western Michigan
+Re'Quan Boyette,1,1,-0.28579126284275813,0.17513919843411127,0.4291497975708502,1.2029673382692914,2021,Duke,2021,Duke,FALSE,,,,
+Marcus Satterfield,4,2,-0.2874504775009456,0.1678175973335412,0.4112175831691988,1.2780603977849898,2021,South Carolina,2024,Nebraska,FALSE,,,,
+Wesley Beschorner,1,1,-0.2945517120091777,0.16101244417666694,0.4206896551724138,1.22988004656048,2024,Northern Illinois,2024,Northern Illinois,FALSE,,,,
+Eddie Gran,2,1,-0.3066076119820806,0.14431272859993519,0.42831656029777887,1.1507453961557423,2019,Kentucky,2020,Kentucky,FALSE,,,,
+Philip Montgomery,6,3,-0.31329872790068947,0.15120400269160997,0.4163334323075204,1.2519875766183526,2019,Tulsa,2025,Virginia Tech,TRUE,2015,Tulsa,2022,Tulsa
+Keith Heckendorf,7,1,-0.3261603314530071,0.1600804993545459,0.4032713341226478,1.3264160579508106,2019,Arkansas State,2025,Arkansas State,FALSE,,,,
+Jim Chaney,3,2,-0.3264845164008254,0.14363735002041697,0.41829757706827897,1.2533959258914578,2019,Tennessee,2024,Georgia State,TRUE,2012,Tennessee,2012,Tennessee
+Will Lawing,2,1,-0.3270569716244748,0.15064772981743563,0.4172961708778328,1.245724925027052,2024,Boston College,2025,Boston College,FALSE,,,,
+Nick Petrino,1,1,-0.3325955307754794,0.15133860731445212,0.38064516129032255,1.4761733330282314,2025,Missouri State,2025,Missouri State,FALSE,,,,
+Bobby Engram,1,1,-0.3477093209897238,0.14693246851459832,0.4154929577464789,1.238261894078797,2022,Wisconsin,2022,Wisconsin,FALSE,,,,
+Jake Peetz,1,1,-0.3501020310885805,0.177726067518958,0.40617283950617283,1.3156782674292982,2021,LSU,2021,LSU,FALSE,,,,
+Eric Morris,1,1,-0.36311261975612596,0.13223776379331878,0.42125,1.2517441108183818,2022,Washington State,2022,Washington State,TRUE,2023,North Texas,2025,North Texas
+Frank Cignetti Jr.,4,2,-0.3640757742985929,0.1482628068408988,0.41535764912239354,1.261887871600393,2020,Boston College,2023,Pittsburgh,FALSE,,,,
+Curtis Luper,1,1,-0.3707785699799628,0.15136792925882864,0.4046172539489672,1.2808168326775655,2022,Missouri,2022,Missouri,FALSE,,,,
+Matt Mumme,7,2,-0.37468494521810025,0.1540609782377503,0.40482045943747524,1.2955661772467364,2019,Nevada,2025,Colorado State,FALSE,,,,
+Slade Nagle,2,2,-0.3753554760316512,0.13799264389640703,0.41920417794205,1.2098404969326286,2023,Tulane,2025,Houston,TRUE,2023,Tulane,2023,Tulane
+Roman Sapolu,1,1,-0.3783350186542729,0.13237177291286098,0.4095238095238095,1.3214243944286481,2023,Hawai'i,2023,Hawai'i,FALSE,,,,
+Doug Meacham,2,2,-0.37983624080376344,0.15351470856358218,0.40521799752017873,1.3087094541677191,2021,TCU,2025,Oklahoma State,FALSE,,,,
+Brad Cornelsen,5,2,-0.38063093742378046,0.1598476626904178,0.4194942563952328,1.1882545127668531,2019,Virginia Tech,2024,Sam Houston State,FALSE,,,,
+Clint Trickett,3,2,-0.38320601237300106,0.14080279445362537,0.4172611851798772,1.2231592263392503,2022,Marshall,2025,Jacksonville State,FALSE,,,,
+Mike Canales,2,1,-0.38595500256185133,0.15805166988613023,0.3937794490757521,1.28914899272507,2019,UTEP,2020,UTEP,TRUE,2010,North Texas,2010,North Texas
+Troy Walters,1,1,-0.38619790503775897,0.13061684358591483,0.421259842519685,1.2412609819299247,2019,Nebraska,2019,Nebraska,FALSE,,,,
+Matt Kubik,4,2,-0.39147481725141475,0.14695311556127358,0.40058715918736926,1.312731720439746,2019,Louisiana Monroe,2023,Louisiana Monroe,FALSE,,,,
+Bill Musgrave,3,1,-0.39319868711700734,0.16007887213604138,0.40390813096384626,1.2121721400342345,2020,California,2022,California,FALSE,,,,
+Mike Piatkowski,2,1,-0.3965565392482261,0.14068635741607266,0.4227337496446748,1.2029033162710174,2024,Eastern Michigan,2025,Eastern Michigan,FALSE,,,,
+Kevin Lynch,3,1,-0.40062802496163946,0.145567255365044,0.4270147805155065,1.1721261071083466,2020,Ball State,2022,Ball State,FALSE,,,,
+Dino Babers,1,1,-0.4022954650825079,0.14801886688298696,0.3850837138508371,1.4739953761389746,2024,Arizona,2024,Arizona,TRUE,2014,Bowling Green,2022,Syracuse
+Sean Lewis,3,2,-0.4049927063516009,0.1552125925189103,0.4023961136702209,1.272674156265921,2023,Colorado,2025,San Diego State,TRUE,2018,Kent State,2025,San Diego State
+Jacob Peeler,2,1,-0.4127366877173111,0.14925879204202414,0.40626227208976157,1.283626318991732,2020,Texas State,2021,Texas State,FALSE,,,,
+Glenn Thomas,3,2,-0.4128736693634501,0.15602656892955494,0.39616138754069785,1.2978104920892648,2020,UNLV,2022,Arizona State,FALSE,,,,
+Steve Cooper,1,1,-0.41460384769034964,0.14384903665660062,0.38785834738617203,1.3850755124733833,2025,UCF,2025,UCF,FALSE,,,,
+Joel Gordon,2,1,-0.4172627202547564,0.16192655356950553,0.38863531631958925,1.3447244910662108,2023,South Florida,2024,South Florida,FALSE,,,,
+Scotty Ohara,1,1,-0.4314581200887138,0.15207235823888954,0.3967828418230563,1.2846000280469376,2023,UTEP,2023,UTEP,FALSE,,,,
+Donnie Kirkpatrick,5,1,-0.43731893753785095,0.14736803667736814,0.3987232821541626,1.3038435795014363,2019,East Carolina,2023,East Carolina,FALSE,,,,
+Vacant,2,2,-0.445627750709933,0.15008805846965687,0.3918831387070951,1.3091469129548066,2022,Navy,2025,Florida Atlantic,FALSE,,,,
+Mark Carney,4,2,-0.4589897792709445,0.13325127790871907,0.40128698012770314,1.3696959307601257,2020,Charlotte,2024,Kent State,TRUE,2025,Kent State,2025,Kent State
+Mitch Stewart,2,1,-0.46732240796269864,0.13340633872341878,0.3983587240523308,1.3296651016324144,2022,Middle Tennessee,2023,Middle Tennessee,FALSE,,,,
+Paul Petrino,3,2,-0.46781120812614585,0.13984610721587842,0.402449049289601,1.2625952259604176,2022,Central Michigan,2025,South Alabama,FALSE,,,,
+Tyler Bowen,3,1,-0.47119273149807345,0.1419283426708906,0.40617001176599193,1.2333019277697201,2022,Virginia Tech,2024,Virginia Tech,FALSE,,,,
+George Barnett,2,1,-0.493432028556114,0.14714563299460234,0.39139975083390266,1.3030082060216177,2019,Miami (OH),2020,Miami (OH),FALSE,,,,
+Jon Budmayr,1,1,-0.4971681362073901,0.1714356555774135,0.4039580908032596,1.2274101076316193,2021,Colorado State,2021,Colorado State,FALSE,,,,
+Noel Mazzone,2,1,-0.49898135789898396,0.12119722969257436,0.4002684106256524,1.2379755217504027,2019,Arizona,2020,Arizona,FALSE,,,,
+Greg Harbaugh Jr.,3,1,-0.5047683038682067,0.13252901772002526,0.41731120418532575,1.1514198719937259,2023,Minnesota,2025,Minnesota,FALSE,,,,
+Marques Tuiasosopo,4,1,-0.5113785610858992,0.138113990925259,0.4024303424457978,1.2988233077238636,2021,Rice,2024,Rice,TRUE,2013,Washington,2013,Washington
+Garin Justice,1,1,-0.5178634435647175,0.13754621339705345,0.39917127071823205,1.2626451373315133,2019,UNLV,2019,UNLV,FALSE,,,,
+Des Kitchings,5,2,-0.518970723737997,0.12859935797271058,0.4144323168167871,1.1931218439171747,2019,NC State,2025,Virginia,FALSE,,,,
+Pep Hamilton,1,1,-0.5421751221954623,0.12166331633837621,0.39929947460595444,1.2880703734814345,2025,Maryland,2025,Maryland,FALSE,,,,
+Ryan Gunderson,2,1,-0.5437855060713435,0.11235788261645166,0.4318722725370636,1.1131267790392863,2024,Oregon State,2025,Oregon State,FALSE,,,,
+Brent Vigen,2,1,-0.5461469838136417,0.13713475732246458,0.39280740305159234,1.2210164332656226,2019,Wyoming,2020,Wyoming,FALSE,,,,
+Derek Dooley,1,1,-0.5493200097445229,0.1306100888593103,0.4227212681638045,1.0910434275566878,2019,Missouri,2019,Missouri,TRUE,2009,Louisiana Tech,2011,Tennessee
+Anthony Tucker,2,1,-0.5498918102319226,0.14413057779681615,0.39214815170580986,1.3239550048067161,2021,Utah State,2022,Utah State,FALSE,,,,
+Mike Sanford Jr.,4,3,-0.5514970403878807,0.1305815440609496,0.4151611449458513,1.1843510249229703,2019,Utah State,2022,Colorado,TRUE,2017,Western Kentucky,2022,Colorado
+Walt Bell,4,2,-0.552459263827887,0.12455003245004538,0.41390197040494525,1.1657454379690413,2022,Indiana,2025,Western Michigan,TRUE,2019,UMass,2020,UMass
+Josh Davis,1,1,-0.5569548797367677,0.11452494699100872,0.4044368600682594,1.2688097269375238,2025,Fresno State,2025,Fresno State,FALSE,,,,
+Jared Elliott,2,1,-0.559482931884195,0.13315770984205844,0.40929046085273213,1.1859241427986014,2023,Ball State,2024,Ball State,FALSE,,,,
+Kevin Barbay,4,4,-0.5602051952369832,0.13990071526387046,0.39978502217717843,1.2805964312564584,2021,Central Michigan,2024,Houston,FALSE,,,,
+Joey Lynch,4,3,-0.5634566424670182,0.11767292957932711,0.3910037842332333,1.3257673296838304,2019,Ball State,2023,Vanderbilt,FALSE,,,,
+Patrick Welsh,3,1,-0.569900735748192,0.13847611203501184,0.3909015629329721,1.2864051501194491,2023,Miami (OH),2025,Miami (OH),FALSE,,,,
+Kevin Sumlin,1,1,-0.5737778586575487,0.1278014029009675,0.40932642487046633,1.2398548893557502,2024,Maryland,2024,Maryland,TRUE,2009,Houston,2020,Arizona
+Billy Cosh,1,1,-0.5760779749634879,0.13911070783834395,0.3992297817715019,1.1936969322368318,2023,Western Michigan,2023,Western Michigan,FALSE,,,,
+Joe Sloan,2,1,-0.5927365804148457,0.12095295342066847,0.3999851857338617,1.262857734568665,2020,Louisiana Tech,2021,Louisiana Tech,FALSE,,,,
+Steve Casula,3,2,-0.6056763991929821,0.12895699182361317,0.39881930079497735,1.2127483393854817,2022,UMass,2025,Michigan,FALSE,,,,
+Eric Bieniemy,1,1,-0.6104329880733512,0.13717211356126816,0.3902097902097902,1.314063625869769,2024,UCLA,2024,UCLA,FALSE,,,,
+Scottie Montgomery,2,1,-0.61728734612708,0.10833693410883528,0.3777012416531803,1.4508214886637325,2019,Maryland,2020,Maryland,TRUE,2016,East Carolina,2017,East Carolina
+Ryan Lindley,1,1,-0.632415381514112,0.11605389138070148,0.41895604395604397,1.087776739232981,2023,San Diego State,2023,San Diego State,FALSE,,,,
+Danny Freund,1,1,-0.6408533923720645,0.11787160150275566,0.418212478920742,1.0800276748004136,2025,Washington State,2025,Washington State,FALSE,,,,
+Bryan Harsin,1,1,-0.6441862449449421,0.10872204724289183,0.3979135618479881,1.2670849789054976,2025,California,2025,California,TRUE,2013,Arkansas State,2021,Auburn
+Tavita Thompson,1,1,-0.666884728059572,0.14565103545761027,0.3866057838660578,1.2571891443445091,2024,Central Michigan,2024,Central Michigan,FALSE,,,,
+Ty Darlington,1,1,-0.6796730847855079,0.10283783587042056,0.39602649006622515,1.276224917792906,2025,Tulsa,2025,Tulsa,FALSE,,,,
+Russ Callaway,1,1,-0.6852654643704215,0.11361077848002814,0.4071550255536627,1.1419473317849433,2025,Florida,2025,Florida,FALSE,,,,
+David Yost,6,3,-0.6921400360808874,0.10847569780649509,0.39844736943169284,1.243135393197642,2019,Texas Tech,2025,New Mexico State,FALSE,,,,
+Rich Scangarello,1,1,-0.6925661131761803,0.10356770076900089,0.40077821011673154,1.2465102688354104,2022,Kentucky,2022,Kentucky,FALSE,,,,
+Beau Baldwin,2,2,-0.6975569100604204,0.1253886765281878,0.38518266513137234,1.2672742568990545,2019,California,2023,Arizona State,FALSE,,,,
+Jake Brown,3,2,-0.7154331443500157,0.11162756842742091,0.3937090914687753,1.2804264272082588,2022,Louisiana Tech,2024,UTEP,FALSE,,,,
+Dave Patenaude,5,2,-0.7164638502693976,0.11186330095369941,0.39360956108613576,1.2761995964316144,2019,Georgia Tech,2025,Buffalo,FALSE,,,,
+Todd Fitch,3,3,-0.7309652874146203,0.09163253861373416,0.39993980486472847,1.2123937545457746,2019,Louisiana Tech,2025,Charlotte,TRUE,2020,Vanderbilt,2020,Vanderbilt
+Chip Long,4,4,-0.7352485085070117,0.11783949637281153,0.3859340365107538,1.3313014282966487,2019,Notre Dame,2024,Southern Mississippi,FALSE,,,,
+Mike Lynch,1,1,-0.7404640827978913,0.11651776158600852,0.38817480719794345,1.2475228419324658,2019,Syracuse,2019,Syracuse,FALSE,,,,
+Kirk Campbell,2,2,-0.7516048585356152,0.12323149609209341,0.4050774585621598,1.1940931095354417,2021,Old Dominion,2024,Michigan,FALSE,,,,
+Brad Salem,1,1,-0.7775406045873362,0.09158165568773996,0.41304347826086957,1.1410127132738552,2019,Michigan State,2019,Michigan State,FALSE,,,,
+Jay Johnson,7,3,-0.7793909946960613,0.09930440518726788,0.3921327118736401,1.2541995425090082,2019,Colorado,2025,Wyoming,FALSE,,,,
+Joe Dailey,1,1,-0.7867909559961557,0.09411830285455057,0.39896373056994816,1.2267687667606948,2019,New Mexico,2019,New Mexico,FALSE,,,,
+Bodie Reeder,3,2,-0.7871030058459942,0.09478107402179826,0.38272742195044157,1.2814091601279438,2020,Utah State,2025,Middle Tennessee,FALSE,,,,
+Luke Meadows,1,1,-0.792152003069322,0.11808135856897638,0.3914285714285714,1.3245510817457213,2021,Troy,2021,Troy,FALSE,,,,
+Jeff Hecklinski,3,1,-0.7993829892768218,0.10776716706437678,0.38583279359316225,1.2456879832520689,2020,San Diego State,2022,San Diego State,FALSE,,,,
+Matt Drinkall,1,1,-0.8020241379226394,0.11824089578514785,0.39586410635155095,1.114775819275782,2023,Army,2023,Army,TRUE,2025,Central Michigan,2025,Central Michigan
+Kerwin Bell,1,1,-0.80852056089371,0.10867093379867167,0.39285714285714285,1.189248589902163,2019,South Florida,2019,South Florida,FALSE,,,,
+Troy Taylor,2,1,-0.8112116911532852,0.1047905638438682,0.3911291606943781,1.2536077519311093,2023,Stanford,2024,Stanford,TRUE,2023,Stanford,2024,Stanford
+Rich Skrosky,2,1,-0.8130216682124738,0.10259009305798572,0.3725346544384038,1.2382663388089905,2019,Florida International,2020,Florida International,FALSE,,,,
+Steve Spurrier Jr.,2,1,-0.8415808761059642,0.11711750619487708,0.37578918002532247,1.3010946622937738,2023,Tulsa,2024,Tulsa,FALSE,,,,
+Sterlin Gilbert,2,1,-0.8528664324097658,0.09921417517387329,0.3702123552123552,1.2862942539411126,2020,Syracuse,2021,Syracuse,FALSE,,,,
+Sam Gregg,2,1,-0.8673285956152113,0.09645106086521082,0.37584345479082326,1.3238983740830412,2022,Southern Mississippi,2023,Southern Mississippi,FALSE,,,,
+Nick Charlton,2,1,-0.8710038069343664,0.09212653988662806,0.3886024423337856,1.2318758042233846,2022,Connecticut,2023,Connecticut,FALSE,,,,
+Brent Dearmon,3,3,-0.8740391150863738,0.09334344408433536,0.36931288749123015,1.3087536687867651,2020,Kansas,2022,Florida Atlantic,FALSE,,,,
+Jeff Kastl,1,1,-0.8975043520566705,0.1016520228222422,0.38844086021505375,1.1772128947106415,2019,UT San Antonio,2019,UT San Antonio,FALSE,,,,
+Kenny Edenfield,2,1,-0.9108195252394238,0.08149845618221814,0.3791391381909746,1.271746404614186,2019,South Alabama,2020,South Alabama,FALSE,,,,
+Rich Rodriguez,3,3,-0.917839367886744,0.10239014857987756,0.3750191777424263,1.3011607115815853,2019,Ole Miss,2025,West Virginia,TRUE,2009,Michigan,2025,West Virginia
+Ian Shoemaker,1,1,-0.9207989387632999,0.07611007443203656,0.39863013698630134,1.1850773102234338,2022,Hawai'i,2022,Hawai'i,FALSE,,,,
+Danny Langsdorf,3,1,-0.9350885414219884,0.10071612187709772,0.3678418551328686,1.3446024011271753,2022,Temple,2024,Temple,FALSE,,,,
+Sean Gleeson,4,2,-0.9426065665819733,0.08514047966690365,0.390433144243474,1.1780861570410677,2019,Oklahoma State,2022,Rutgers,FALSE,,,,
+Mike Bajakian,6,3,-0.9526840472366335,0.09019683103153653,0.3870332916579641,1.1843711775785144,2019,Boston College,2025,UMass,FALSE,,,,
+Jerry Mack,2,1,-0.9855770696552357,0.06943859097675048,0.395058197373657,1.1457088985188557,2019,Rice,2020,Rice,TRUE,2025,Kennesaw State,2025,Kennesaw State
+Doug Ruse,1,1,-0.9909305485079439,0.11303259283364883,0.3730769230769231,1.3122221838963937,2021,Georgia Southern,2021,Georgia Southern,FALSE,,,,
+Zach Lujan,2,1,-0.999796349758485,0.07118790644017665,0.3997929606625259,1.1871451013756973,2024,Northwestern,2025,Northwestern,FALSE,,,,
+Zac Roper,2,1,-1.0024092744618611,0.0610708618667746,0.38693477517855696,1.209449741457007,2019,Duke,2020,Duke,FALSE,,,,
+Darrin Chiaverini,2,1,-1.003143303483351,0.09854554467189391,0.3729755297183994,1.2263439947717765,2020,Colorado,2021,Colorado,FALSE,,,,
+Mike Uremovich,4,2,-1.0103371492138795,0.08297752841720747,0.37377261900987,1.2658759068002015,2019,Temple,2025,Ball State,TRUE,2025,Ball State,2025,Ball State
+Matt Moore,1,1,-1.0213959573762041,0.08016870930337301,0.3729508196721312,1.2819118480143494,2019,West Virginia,2019,West Virginia,FALSE,,,,
+Vince Munch,1,1,-1.026078522044219,0.08740298596661222,0.38461538461538464,1.1290262364216885,2025,Rice,2025,Rice,FALSE,,,,
+Kevin Reihner,1,1,-1.030482460451098,0.10105849040741653,0.34334763948497854,1.396481618263566,2022,Old Dominion,2022,Old Dominion,FALSE,,,,
+Taylor Housewright,1,1,-1.0621737662768085,0.06616416357298696,0.3883357041251778,1.2819465990541874,2024,Akron,2024,Akron,FALSE,,,,
+Jeff Horton,1,1,-1.071589708552526,0.06442154562545216,0.4087513340448239,1.0420586692265197,2019,San Diego State,2019,San Diego State,TRUE,2010,Minnesota,2010,Minnesota
+Clay Patterson,1,1,-1.1039962171143944,0.06598950894626443,0.3497854077253219,1.412752177430007,2025,Kent State,2025,Kent State,FALSE,,,,
+Mike Miller,2,1,-1.118749936807467,0.06941116208586959,0.3574183979343195,1.4105556300754503,2023,Charlotte,2024,Charlotte,FALSE,,,,
+Bryan McClendon,1,1,-1.1247095485369727,0.05350122685921613,0.4034440344403444,1.084578842015067,2019,South Carolina,2019,South Carolina,TRUE,2021,Oregon,2021,Oregon
+Mike Shula,1,1,-1.1306376193481513,0.07125076670062727,0.35630252100840337,1.318539160243822,2025,South Carolina,2025,South Carolina,FALSE,,,,
+Grant Heard,2,1,-1.1425952451987547,0.07717906635007007,0.37363090177849534,1.1982217921886411,2020,Indiana,2021,Indiana,FALSE,,,,
+DJ Mangas,1,1,-1.1503018355161598,0.05392251297940069,0.38616352201257864,1.1853176102635536,2023,Buffalo,2023,Buffalo,FALSE,,,,
+Angelo Mirando,1,1,-1.1590135337167247,0.08723121766944543,0.3747927031509121,1.272149709871808,2021,UMass,2021,UMass,FALSE,,,,
+Gerry Gdowski,1,1,-1.1639665644593844,0.06630756993693265,0.37735849056603776,1.1886599411767123,2019,Vanderbilt,2019,Vanderbilt,FALSE,,,,
+Joe Jon Finley,1,1,-1.1668202962986758,0.0643499816483063,0.38974358974358975,1.1939985496168197,2024,Oklahoma,2024,Oklahoma,FALSE,,,,
+Tommy Zagorski,3,1,-1.176830270689987,0.05139932662744817,0.3603881818978831,1.3608630291117132,2019,Akron,2021,Akron,FALSE,,,,
+Larry Fedora,1,1,-1.2028191750948682,0.04959735165647947,0.3423728813559322,1.2814403444095057,2020,Baylor,2020,Baylor,TRUE,2009,Southern Mississippi,2018,North Carolina
+Brian Ferentz,5,1,-1.229596908088847,0.0530396713539914,0.39170051846383164,1.1063589638481506,2019,Iowa,2023,Iowa,FALSE,,,,
+Grant Chesnut,1,1,-1.2352690608830155,0.062466520959080604,0.37142857142857144,1.189547518045451,2023,Navy,2023,Navy,FALSE,,,,
+Eman Naghavi,1,1,-1.2383841286158648,0.02642800252489442,0.3531746031746032,1.2714966688173286,2020,Louisiana Monroe,2020,Louisiana Monroe,FALSE,,,,
+Bob Stitt,1,1,-1.2419505161929334,0.04906183364660188,0.35379644588045234,1.3739478829729228,2019,Texas State,2019,Texas State,FALSE,,,,
+Nate Byham,1,1,-1.2508375521793456,0.06203839805604518,0.362012987012987,1.2131093332091656,2025,Stanford,2025,Stanford,FALSE,,,,
+Tyler Wright,1,1,-1.252240062727513,0.05169318210583453,0.3851963746223565,1.216590182087283,2024,New Mexico State,2024,New Mexico State,FALSE,,,,
+John McNulty,2,2,-1.2947152201791037,0.059483261037152374,0.35918727661590133,1.2412009422346428,2019,Rutgers,2022,Boston College,FALSE,,,,
+Freddie Kitchens,1,1,-1.3047801985346557,0.04240854647417788,0.37640449438202245,1.146707616171185,2025,North Carolina,2025,North Carolina,FALSE,,,,
+Doug Martin,3,1,-1.337126024251283,0.035203054183155724,0.36569645782754684,1.1719409960663796,2019,New Mexico State,2021,New Mexico State,TRUE,2009,Kent State,2021,New Mexico State
+Matt Johnson,1,1,-1.4220140684956626,0.04775490730819875,0.3516483516483517,1.2543053433984517,2023,Kent State,2023,Kent State,FALSE,,,,
+Terry Malone,3,1,-1.4572570101184759,0.021264466361885212,0.3722095285884811,1.1338640398648405,2019,Bowling Green,2021,Bowling Green,FALSE,,,,
+Derek Sage,2,1,-1.4640825891840676,0.03331461472353436,0.35541760068021955,1.2418367876067542,2022,Nevada,2023,Nevada,FALSE,,,,
+Zack Patterson,1,1,-1.4680626809447264,0.010222398966310706,0.3612565445026178,1.2589207705712566,2025,Sam Houston State,2025,Sam Houston State,FALSE,,,,
+David Raih,1,1,-1.4778286542001806,0.06729424054347138,0.34459459459459457,1.319190565031687,2021,Vanderbilt,2021,Vanderbilt,FALSE,,,,
+Billy Fessler,1,1,-1.4838006206831587,0.03571172944344249,0.36363636363636365,1.1551973163788904,2023,Akron,2023,Akron,FALSE,,,,
+David Gilbertson,1,1,-1.5003499628135453,0.013689531526802308,0.35450819672131145,1.265549738199739,2025,Nevada,2025,Nevada,FALSE,,,,
+Travis Partridge,1,1,-1.521052893824178,0.017738207642380037,0.35467980295566504,1.2285953823906388,2025,Bowling Green,2025,Bowling Green,FALSE,,,,
+Derek Warehime,2,1,-1.5218831866318512,0.019543095881509563,0.36380989909691086,1.1187050603809232,2020,New Mexico,2022,New Mexico,FALSE,,,,
+Cayden Cochran,1,1,-1.5465362616634857,0.03041217137081237,0.35944700460829493,1.3227702472965104,2021,Southern Mississippi,2021,Southern Mississippi,FALSE,,,,
+Scott Parr,1,1,-1.5527022019724153,0.021317795968989868,0.37456242707117854,1.1907838847704133,2024,Louisiana Tech,2024,Louisiana Tech,FALSE,,,,
+Frank Giufre,2,1,-1.60936904197865,0.018214759399399597,0.34527652086475613,1.348739760762257,2019,Connecticut,2021,Connecticut,FALSE,,,,
+Mick McCall,1,1,-1.6800387667739058,0.01153581348541973,0.3642213642213642,1.0882037753805882,2019,Northwestern,2019,Northwestern,FALSE,,,,
+Mark Cala,1,1,-1.6950887279675075,-0.010522571889577937,0.32636655948553056,1.4113467456277582,2025,UTEP,2025,UTEP,FALSE,,,,
+Quinn Sanders,1,1,-1.7041296115570201,0.015353313981986418,0.32604735883424407,1.2920943062880084,2025,Northern Illinois,2025,Northern Illinois,FALSE,,,,
+Drew Mehringer,2,2,-1.7433259612748977,0.010351368269817474,0.34162688998770974,1.2311793808248477,2020,Florida Atlantic,2021,New Mexico,FALSE,,,,
+Brian Scott,1,1,-1.863024479571214,-0.022088899891342384,0.3496143958868895,1.1896089604502686,2019,Old Dominion,2019,Old Dominion,FALSE,,,,
+Jim Jackson,2,1,-1.9990828440866708,-0.04070702583035943,0.30085165379283024,1.316381631341268,2019,UMass,2020,UMass,FALSE,,,,
+Chandler Burks,1,1,-2.3474784609784813,-0.036025079987404306,0.3144927536231884,1.2631508386643056,2024,Kennesaw State,2024,Kennesaw State,FALSE,,,,
